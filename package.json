@@ -26,7 +26,7 @@
     "expo-camera": "~16.0.18",
     "expo-clipboard": "~7.0.1",
     "expo-constants": "~17.0.8",
-    "expo-dev-client": "~4.0.29",
+    "expo-dev-client": "~5.0.20",
     "expo-device": "~7.0.3",
     "expo-doctor": "^1.12.8",
     "expo-file-system": "~18.0.12",
