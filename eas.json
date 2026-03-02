@@ -1,0 +1,33 @@
+{
+  "cli": { "version": ">= 3.13.3", "appVersionSource": "remote" },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "channel": "development",
+      "ios": { "image": "macos-sonoma-14.6-xcode-16.1" },
+      "env": { "EXPO_USE_NEW_ARCH": "0" }
+    },
+    "preview": {
+      "distribution": "internal",
+      "channel": "preview",
+      "ios": { "image": "macos-sonoma-14.6-xcode-16.1" },
+      "env": { "EXPO_USE_NEW_ARCH": "0" }
+    },
+    "production": {
+      "distribution": "store",
+      "autoIncrement": true,
+      "channel": "production",
+      "ios": { "image": "macos-sonoma-14.6-xcode-16.1" },
+      "android": {
+        "buildType": "apk",
+        "env": {
+          "NPM_CONFIG_REGISTRY": "https://registry.npmjs.org/",
+          "NPM_CACHE": "false"
+        }
+      },
+      "env": { "EXPO_USE_NEW_ARCH": "0" }
+    }
+  },
+  "submit": { "production": {} }
+}

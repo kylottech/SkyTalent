@@ -1,0 +1,336 @@
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "¿Qué lugar o funcionalidad te sorprendió gratamente al usar esta plataforma?",
+    "subtitle": "Descubrimiento favorito con Kylot",
+    "date": {
+      "$date": "2025-04-08T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "Describe cómo sería ese primer encuento perfrcto que siempre has soñado",
+    "subtitle": "Mi cita ideal",
+    "date": {
+      "$date": "2025-04-09T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "¿Qué película o serie refleja mejor tu personalidad o ha marcado tu vida?",
+    "subtitle": "Entretenimiento que me define",
+    "date": {
+      "$date": "2025-04-10T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "Si tuvieras habilidades extraordinarias durante un día, ¿cuáles eligirías y cómo las usarías?",
+    "subtitle": "Superpoderes por 24 horas",
+    "date": {
+      "$date": "2025-04-11T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "¿Con qué personaje histórico o actual te encantaría compartir una cena y qué le preguntarías?",
+    "subtitle": "Invitado especial a mi mesa",
+    "date": {
+      "$date": "2025-04-12T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "¿Qué algbum de Spotify consideras tu obra musical perfecto?",
+    "subtitle": "Banda sonora de mi vida",
+    "date": {
+      "$date": "2025-04-13T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "¿Cuál es ese primer acto indispensable al iniciar tu día?",
+    "subtitle": "Mi ritual matutino",
+    "date": {
+      "$date": "2025-04-14T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "¿Qué le dirías a tu yo de 10 años?",
+    "subtitle": "Consejo a mi yo del pasado",
+    "date": {
+      "$date": "2025-04-15T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "¿Qué habilidad inusual dominas que, aunque poco práctica, te llena de orgullo?",
+    "subtitle": "Mi talento peculiar",
+    "date": {
+      "$date": "2025-04-16T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "¿Qué herramienta de la plataforma ha revolucionado tu experiencia?",
+    "subtitle": "Función imprescindible",
+    "date": {
+      "$date": "2025-04-17T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "Si solo pudieras conservar una app en tu dispositivo, ¿cuál sería imposible eliminar?",
+    "subtitle": "Mi aplicación esencial",
+    "date": {
+      "$date": "2025-04-18T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "¿En qué periodo histórico hubieras preferido nacer y por qué te fascina?",
+    "subtitle": "Mi época favorita",
+    "date": {
+      "$date": "2025-04-19T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "¿En la vida de quién te gustaría sumergirte durante 24 horas?",
+    "subtitle": "Un día en otros zapatos",
+    "date": {
+      "$date": "2025-04-20T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "¿Qué libro consideras que toda persona debería leer al menos una vez ?",
+    "subtitle": "Lectura Universal",
+    "date": {
+      "$date": "2025-04-21T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "¿Cómo te definirías en 3 palabras?",
+    "subtitle": "Mi esencia en tres palabras",
+    "date": {
+      "$date": "2025-04-22T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "¿Qué es lo que más te preocupa actualmente para tu yo de los próximos 10 años?",
+    "subtitle": "Pregunta al futuro",
+    "date": {
+      "$date": "2025-04-23T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "¿Cuál ha sido el viaje que transformó tu perspectiva?",
+    "subtitle": "Aventura inolvidable",
+    "date": {
+      "$date": "2025-04-24T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "¿Qué tres objetos especiales llevarías a una isla desierta?",
+    "subtitle": "Kit de supervivencia",
+    "date": {
+      "$date": "2025-04-25T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "Selecciona tres artistas para montar un concierto único",
+    "subtitle": "Mi festival soñado",
+    "date": {
+      "$date": "2025-04-26T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "¿Quién es tu mayor referente?",
+    "subtitle": "Mi referente",
+    "date": {
+      "$date": "2025-04-27T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+
+{
+    "_id": {
+      "$oid": "67f4e7bb5e719dac7983de39"
+    },
+    "title": "¿Tienes alguna manía rara? ¿Cuál?",
+    "subtitle": "Mi peculiaridad",
+    "date": {
+      "$date": "2025-04-28T12:00:00.000Z"
+    },
+    "avatar": {
+      "filename": "ciudadPredeterminada.jpg",
+      "url": "https://mykylotbucked.s3.amazonaws.com/ciudadPredeterminada.jpg"
+    },
+    "__v": 0
+      }
+

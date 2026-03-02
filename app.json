@@ -1,0 +1,119 @@
+{
+  "expo": {
+    "name": "Sky Talent",
+    "slug": "skytalent",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Espanita.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Espanita.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "scheme": "kylot",
+    "ios": {
+      "bundleIdentifier": "com.skytalent.app",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false,
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "Esta aplicación necesita acceso a la ubicación en todo momento para ofrecer una mejor experiencia.",
+        "NSLocationWhenInUseUsageDescription": "Esta aplicación necesita acceso a tu ubicación mientras la usas para mostrarte contenido relevante.",
+        "NSCameraUsageDescription": "Esta aplicación necesita acceso a la cámara para tomar fotos y videos.",
+        "NSMicrophoneUsageDescription": "Esta aplicación necesita acceso al micrófono para grabar audio.",
+        "NSAppTransportSecurity": {
+          "NSAllowsArbitraryLoads": true
+        }
+      },
+      "newArchEnabled": false
+    },
+    "android": {
+      "usesCleartextTraffic": true,
+      "softwareKeyboardLayoutMode": "pan",
+      "windowSoftInputMode": "adjustResize",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Espanita.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.skytalent.app",
+      "permissions": [
+        "INTERNET",
+        "ACCESS_NETWORK_STATE",
+        "ACCESS_WIFI_STATE",
+        "CAMERA",
+        "RECORD_AUDIO",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "POST_NOTIFICATIONS",
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ],
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCVq0nosHYjM755NaT-ZfndLS8WVX6GTno"
+        }
+      },
+      "newArchEnabled": false
+    },
+    "notification": {
+      "icon": "./assets/Espanita.png",
+      "color": "#FFFFFF"
+    },
+    "web": {
+      "favicon": "./assets/Espanita.png"
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "680acb21-c803-468b-b052-59046110c5ab"
+      }
+    },
+    "owner": "pattackk",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/df84feb3-4903-43f6-87fa-5c70981bd15c"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-router",
+      "expo-dev-client",
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Permitir acceso a la cámara para tomar fotos y videos."
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationAlwaysPermission": "Permitir acceso a la ubicación en todo momento.",
+          "locationWhenInUsePermission": "Permitir acceso a la ubicación cuando la app esté en uso."
+        }
+      ],
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "compileSdkVersion": 34,
+            "targetSdkVersion": 34,
+            "buildToolsVersion": "34.0.0",
+            "usesCleartextTraffic": true,
+            "enableProguardInReleaseBuilds": false,
+            "enableShrinkResourcesInReleaseBuilds": false
+          }
+        }
+      ],
+      "expo-asset",
+      "expo-localization",
+      "expo-notifications"
+    ]
+  }
+}

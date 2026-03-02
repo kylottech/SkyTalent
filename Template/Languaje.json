@@ -1,0 +1,1610 @@
+{
+    "pages":{
+        "AjustesPerfil":{
+            "ajustesPerfil": {
+                "Top": "",
+                "Language": "",
+                "EditProfile": "",
+                "Notifications": "",
+                "Account": "",
+                "Privacity": "",
+                "Ambassador": "",
+                "Mailbox": "",
+                "Manifiesto": "",
+                "Card": "",
+                "LogOut": ""
+            },
+            "CodigoEmbajador": {
+                "Top": "",
+                "shareText": "",
+                "Title": "",
+                "Subtitle": "",
+                "Link": "",
+                "Share": "",
+                "Reward1": "",
+                "Reward2": "",
+                "Reward3": "",
+                "References": "",
+                "ReferencesPlaceHolder": ""
+            },
+            "cuentaPerfil": {
+                "Top": "",
+                "Email": "",
+                "EmailPlaceHolder": "",
+                "Password": "",
+                "PasswordPlaceHolder": "",
+                "NewPasswordPlaceHolder1": "",
+                "NewPasswordPlaceHolder2": "",
+                "GradientButton": "",
+                "MessageConfirmation": "",
+                "PasswordError": "",
+                "PasswordSpaceError": "",
+                "PasswordLengthError": "",
+                "PasswordMajorError": "",
+                "PasswordLowerError": "",
+                "PasswordNumberError": "",
+                "PasswordSpecialError": ""
+            },
+            "editarPerfil": {
+                "Top": "",
+                "ProfilePicture": "",
+                "NamePlaceHolder": "",
+                "SurnamePlaceHolder": "",
+                "KylotIdPlaceHolder": "",
+                "TitlePlaceHolder": "",
+                "SentencePlaceHolder": "",
+                "InstagramPlaceHolder": "",
+                "TikTokPlaceHolder": "",
+                "WhatsappPlaceHolder": "",
+                "GradientButton": "",
+                "MessageConfirmation": "",
+                "PermitsError": ""
+            },
+            "LanguageSelector": {
+                "Top": "",
+                "Title": ""
+            },
+            "Manifiesto": {
+                "Top": "",
+                "Title": "",
+                "Subtitle": "",
+                "Footer": "",
+                "StepsTitle1": "",
+                "StepsDescription1": "",
+                "StepsTitle2": "",
+                "StepsDescription2": "",
+                "StepsTitle3": "",
+                "StepsDescription3": "",
+                "StepsTitle4": "",
+                "StepsDescription4": "",
+                "StepsTitle5": "",
+                "StepsDescription5": "",
+                "StepsTitle6": "",
+                "StepsDescription6": "",
+                "StepsTitle7": "",
+                "StepsDescription7": "",
+                "StepsTitle8": "",
+                "StepsDescription8": "",
+                "StepsTitle9": "",
+                "StepsDescription9": "",
+                "StepsTitle10": "",
+                "StepsDescription10": "",
+                "StepsTitle11": "",
+                "StepsDescription11": ""
+            },
+            "notificacionesPerfil": {
+                "Top": "",
+                "Title1": "",
+                "NewFollowers": "",
+                "SubNewFollowers": "",
+                "Roullete": "",
+                "SubRoullete": "",
+                "Kylets": "",
+                "SubKylets": "",
+                "FriendsPosts": "",
+                "SubFriendsPosts": "",
+                "Visualizations": "",
+                "SubVisualizations": "",
+                "NewList": "",
+                "SubNewList": "",
+                "NewExperience": "",
+                "SubNewExperience": "",
+                "Title2": "",
+                "News": "",
+                "SubNews": "",
+                "Microfunctionalities": "",
+                "SubMicrofunctionalities": ""
+            },
+            "Privacidad": {
+                "Top": "",
+                "Title": "",
+                "Contact": "",
+                "TitleInfoModal": "",
+                "SubtitleInfoModal": "",
+                "ButtonInfoModal": ""
+            }
+        },
+        "BancoPages":{
+            "Buscador": {
+                "Top": "",
+                "SearcherPlaceHolder": "",
+                "Title": "",
+                "Subtitle": "",
+                "EmptyList": ""
+            },
+            "Confirmacion": {
+                "Top": "",
+                "Title": "",
+                "Subtitle1": "",
+                "Subtitle2": "",
+                "Available": "",
+                "HorizontalSlider": ""
+            },
+            "Denegacion": {
+                "Top": "",
+                "Title": "",
+                "SubTitle": "",
+                "Button": ""
+            },
+            "Teclado": {
+                "Top": "",
+                "HorizontalSlider1": "",
+                "Available":"",
+                "HorizontalSlider2": ""
+            }
+        },
+        "bienvenida": {
+            "Bienvenida":{
+                "Top": "",
+                "Title": "",
+                "Subtitle": "",
+                "VerticalSlider": "",
+                "CongratulationsTitle": "",
+                "CongratulationsSubtitle": "",
+                "HorizontalSlider": ""
+            }
+        },
+        "Buzon": {
+            "Buzon":{
+                "Top": "",
+                "Title": "",
+                "Subtitle": "",
+                "BookPlaceHolder": "",
+                "BookTitle": "",
+                "GradientButton": "",
+                "SendError": "",
+                "TitleConfimation": "",
+                "SubtitleConfirmation": "",
+                "ButtonConfirmation": ""
+            }
+        },
+        "codigosVerificacion":{
+            "AnadirRecomendacion":{
+                "Top":"",
+                "RegularName": "",
+                "Title": "",
+                "Subtitle": "",
+                "SelectedLocations": "",
+                "HorizontalSlider": "",
+                "LocationsError": ""
+            },
+            "CodigoVerificacion":{
+                "Title": "",
+                "Subtitle": "",
+                "NoCodeTitle": "",
+                "NoCodeSubtitle": "",
+                "GradientButton": ""
+
+            },
+            "Decision": {
+                "Title": "",
+                "Subtitle": "",
+                "CheckDecision": ""
+            },
+             "DecisionNegativa": {
+                "Title": "",
+                "Subtitle": "",
+                "HorizontalSlider": ""
+            },
+            "DecisionPositiva": {
+                "Title": "",
+                "Subtitle": "",
+                "HorizontalSlider": ""
+            },
+            "EsperarDecision": {
+                "Title": "",
+                "Subtitle": "",
+                "HorizontalSlider": "" 
+            },
+            "Invitacion":{
+                "Title": "",
+                "SubTitle": "",
+                "CodePlaceHolder": "",
+                "NoFunctionalCode": " ",
+                "SendCodeAgain": "",
+                "GradientButton": ""
+            },
+            "InvitacionEspecial": {
+                "Title": "",
+                "SubTitle": "",
+                "KylotCode": "",
+                "CodePlaceHolder": "",
+                "NoFunctionalCode": "",
+                "SendCodeAgain": "",
+                "GradientButton": ""
+            },
+            "Recomendacion": {
+                "Title": "",
+                "SubTitle":"",
+                "FavoritePlaces": "",
+                "HorizontalSlider": ""
+            },
+            "Seleccion": {
+                "Title": "",
+                "SubTitle": "",
+                "AccessMember":"",
+                "AccessKylot": "",
+                "AccessLocations":""
+            }
+        },
+        "ComunidadPages": {
+            "Advice": {
+                "Top": ""
+            },
+            "AdviceDetails": {
+                "Top": ""
+            },
+            "CommunityMain": {
+                "SearcherPlaceHolder": ""
+            },
+            "Contacts": {
+                "Top": ""
+            },
+            "ContactsDetails": {
+                "Top": ""
+            },
+            "Create": {
+                "Top": "",
+                "Title": "",
+                "Option1": "",
+                "Option2": "",
+                "Option3": ""
+            },
+            "LocationCreate": {
+                "Top": "",
+                "Title": "",
+                "Subtitle": "",
+                "CityTitle": "",
+                "CityPlaceHolder": "",
+                "CountryTitle": "",
+                "CountryPlaceHolder": "",
+                "GradientButton": "",
+                "Alert1": "",
+                "Alert2": ""
+            },
+            "Tricks": {
+                "Top": ""
+            },
+            "TricksDetails": {
+                "Top": ""
+            },
+            "Users": {
+                "SearcherPlaceHolder":""
+            }
+        },
+        "contrasenia": {
+            "CodigoVerificacionContrasenia": {
+                "Title": "",
+                "Subtitle": "",
+                "ForgottenPasswordTouchable1": "",
+                "ForgottenPasswordTouchable2": "",
+                "SetConfirmationMensaje": ""
+            },
+            "RecuperarContrasenia1": {
+                "Title": "",
+                "EmailPlaceHolder": "",
+                "SendGradientButtton": ""
+            },
+            "RecuperarContrasenia2": {
+                "Title": "",
+                "NewPasswordPlaceHolder": "",
+                "RepeatNewPasswordPlaceHolder": "",
+                "GradientButton": "",
+                "NotEqualPasswordsError": "",
+                "PasswordSpaceError": "",
+                "PasswordLengthError": "",
+                "PasswordMajorError": "",
+                "PasswordLowerError": "",
+                "PasswordNumberError": "",
+                "PasswordSpecialError": ""
+            }
+        },
+        "Mapas": {
+            "AddMarket":{
+                "Top": "",
+                "Title": "",
+                "Subtitle": "",
+                "StorySubtitle": "",
+                "StorySubtitle2": "",
+                "PreviousStoriesTitle": "",
+                "PreviousStoriesSubtitle": "",
+                "PreviousStoriesSubtitle2": "",
+                "ValorationSubtitle": "",
+                "OtherSimilarPlaces": "",
+                "PublicationHorizontalSlider": "",
+                "WinKyletsModalTitle":"",
+                "WinKyletsModalSubtitle1":"",
+                "WinKyletsModalSubtitle2":"",
+                "NotWinKyletsModalSubtitle":"",
+                "WinKyletsModalPhoto1":"",
+                "WinKyletsModalPhoto2":"",
+                "WinKyletsModalPhoto3":"",
+                "WinKyletsModalPhoto4":"",
+                "ContinueTouchable": ""
+            }
+        },
+        "MetricasPages": {
+            "Cities": {
+                "Discover": ""
+            },
+            "Discover": {
+                "Top": "",
+                "Discover": ""
+            }
+        },
+        "OnBoarding":{
+            "CategorySelect":{
+                "Top": "",
+                "SkipTouchable": "",
+                "CategoryTitle": "",
+                "CategorySubTitle": "",
+                "HorizontalSlider": ""
+            },
+            "Final": {
+                "Title":"",
+                "Subtitle": "",
+                "StartingHorizontalSlider": ""
+            },
+            "Onboarding":{
+                "Top": "",
+                "UploadPlaceHolder": "",
+                "ContinueHorizontalSlider": "",
+                "PermitsError": "",
+                "ConfirmationMensaje": ""
+            },
+            "Questions": {
+                "Top": "",
+                "ContinueTouchable": ""
+            },
+            "Welcome": {
+                "Top": "",
+                "Title": "",
+                "GetStartedTouchable": "",
+                "TermsFooter": ""
+            },
+            "WelcomeToKylot":{
+                "Top": "",
+                "Title": "",
+                "ContinueHorizontalSlider": ""
+            }
+        },
+        "Ranking":{
+            "RankingScreen": {
+                "Top": "",
+                "Title": "",
+                "Position": "",
+                "Kylets": "",
+                "OtherPosition": "",
+                "Option": ""
+            }
+        },
+        "Ruleta": {
+            "Ruleta":{
+                "Top": "",
+                "Title": "",
+                "SubTitle1": "",
+                "SubTitle2": "",
+                "ClaimHorizontalSlider": "",
+                "Title2": "",
+                "SpinSubtitle": "",
+                "SpinTouchable": ""
+            }
+        },
+        "usuarios": {
+            "BlockQuestion": {
+                "Top": "",
+                "Title1": "",
+                "Subtitle1": "",
+                "Subtitle2": "",
+                "Title2": "",
+                "Subtitle3": "",
+                "VerticalSlider1": "",
+                "VerticalSlider2": "",
+                "VerticalSlider3": ""
+            },
+            "ListaSeguidores": {
+                "Top": ""
+            },
+            "ListaSiguiendo": {
+                "Top": ""
+            },
+            "OtroPerfil": {
+                "Top": "",
+                "FollowersTouchable": "",
+                "FollowingTouchable": "",
+                "FollowTouchable": "",
+                "FollowingTouchable2": "",
+                "Title": "",
+                "Subtitle": "",
+                "PostsMenu": "",
+                "PhotosMenu": "",
+                "LocationsMenu": "",
+                "PublicationsText": "",
+                "PhotosText": "",
+                "FollowConfirmation": "",
+                "UnfollowConfirmation": ""
+            },
+            "Preguntas": {
+                "Top": ""
+            }
+        },
+        "WalletPages": {
+            "Experiencias":{
+                "ExperienceContacts": {
+                    "Title": ""
+                },
+                "ExperienceDetail": {
+                    "Top": "",
+                    "Title": "",
+                    "Subtitle": "",
+                    "VisitsSubtitle2": "",
+                    "VisitsSubtitle3": "",
+                    "FechasSubtitle": "",
+                    "FechasSubtitle2": "",
+                    "FechasSubtitle3": "",
+                    "PostSubtitle": "",
+                    "PostSubtitle2": "",
+                    "MyExperiencesSubtitle": "",
+                    "MyExperiencesSubtitle2": "",
+                    "Routes": ""
+                },
+                "Experiencias": {
+                    "Title": "",
+                    "Subtitle": "",
+                    "ExploreTabButton": "", 
+                    "UserTabButton": "",
+                    "CommunityTabButton": "",
+                    "EmptyExplore": "",
+                    "EmptyUser": "",
+                    "EmptyCommunity": ""
+                },
+                "RoutesMaps": {
+                    "Top": "",
+                    "Title": "",
+                    "Menu1": "",
+                    "Menu2": "",
+                    "Menu3": ""
+                },
+                "StepGuide": {
+                    "Title": "",
+                    "Subtitle1": "",
+                    "Subtitle2": "",
+                    "InfoLabelSubtitle": "",
+                    "InfoDurationLabelSubtitle": "",
+                    "GradientButton1": "",
+                    "GradientButton2": ""
+                }
+            },
+            "Listas": {
+                "AddList": {
+                    "Top": "",
+                    "Title": "",
+                    "Subtitle": "", 
+                    "NewListPlaceHolder": "",
+                    "CategoryPlaceHolder": "",
+                    "PrivacyPicker": "",
+                    "PublicPicker": "",
+                    "PrivatePicker": "",
+                    "DescriptionPlaceHolder": "",
+                    "Title2": "",
+                    "Subtitle2": "",
+                    "HorizontalSlider": "",
+                    "FieldsErrorMessages": "",
+                    "AccessGalleryPermissionError": ""
+                },
+                "FriendsLists": {
+                    "Top": "",
+                    "Title": "",
+                    "NoFriendsSubtitle": ""  
+                },
+                "Listas": {
+                    "Title": "",
+                    "Subtitle": "",
+                    "Subtitle2": "",
+                    "PredeterminedList": "",
+                    "PredeterminedList2": ""
+                },
+                "OtherExperience": {
+                    "Top": "",
+                    "MapError": ""
+                },
+                "savedList": {
+                    "Top": "",
+                    "Title": "",
+                    "NoListsSavedSubtitle": ""
+                }
+            },
+            "Rutas": {
+                "Rutas":{
+                    "TitleModal": "",
+                    "SubtitleModal": "",
+                    "ButtonModal": ""
+                }
+            }
+        },
+        "WeeklyProgress": {
+            "Weekly": {
+                "Top": "",
+                "Title": "",
+                "Subtitle1": "",
+                "Subtitle2": "",
+                "ClaimHorizontalSlider": "",
+                "Day": "",
+                "Days": "",
+                "Title2": "",
+                "Subtitle3": "",
+                "Subtitle4": "",
+                "Monday": "",
+                "Tuesday": "",
+                "Wednesday": "",
+                "Thursday": "",
+                "Friday": "",
+                "Saturday": "",
+                "Sunday": ""
+            }
+        },
+        "Banco": {
+            "Top": "",
+            "Title": "",
+            "Subtitle": "",
+            "FriendsTouchableTitle": "",
+            "FriendsTouchableSubtitle": "",
+            "PhoneTouchableTitle": "",
+            "PhoneTouchableSubtitle": ""
+        },
+        "Camara": {
+            "CameraPermissionError": ""
+        },
+        "Categorias":{
+            "Top": "",
+            "Title": "",
+            "GradientButton": "",
+            "Loader": "",
+            "ConfirmationMensaje": ""
+        },
+        "Comunidad": {
+            "Top": "",
+            "Menu1": "",
+            "Menu2": ""
+        },
+        "FirstScreen": {
+            "Text1": "",
+            "Text2": "",
+            "Text3": "",
+            "Text4": ""
+        },
+        "GlobeScreen": {
+            "Top": "",
+            "HomeTouchable": "",
+            "AddLocationTouchable": "",
+            "LocationConfirmation": "",
+            "FieldsErrorMessages": ""
+        },
+        "Home": {
+            "Loader":""
+        },
+        "LoginScreen": {
+            "Title": "",
+            "SignInTouchable": "",
+            "SignUpTouchable": ""
+        },
+        "Mapa": {
+            "Top": "",
+            "LocationConfirmation": "",
+            "FieldsErrorMessages": "",
+            "PermissionError":""
+        },
+        "Metricas":{
+            "Top": "",
+            "Title": "",
+            "Subtitle": "",
+            "DiscoverWorldLabel": "",
+            "DiscoverLocationsLabel": "",
+            "EarnedKylets": "",
+            "FollowersLabel": "",
+            "NewFollowersTitle": "",
+            "NewFollowersSubtitle": "",
+            "Loader": ""
+        },
+        "Notificaciones": {
+            "Loader": "",
+            "Top": ""
+        },
+        "OnBoardingIndex": {
+            "Screen1":"",
+            "Title1":"",
+
+            "Screen2":"",
+            "Title2":"",
+
+            "Screen3":"",
+            "Title3":"",
+
+            "Screen4":"",
+            "Title4":"",
+
+            "Screen5":"",
+            "Title5":"",
+
+            "Screen6":"",
+            "Title6":"",
+
+            "Screen7":"",
+            "Title7":"",
+
+            "Screen8":"",
+            "Title8":"",
+            
+            "Screen9":"",
+            "Title9":""
+        },
+        "Perfil": {
+            "Top": "",
+            "FollowersText": "",
+            "FollowingText": "",
+            "Title": "",
+            "Subtitle": "",
+            "PostMenu": "",
+            "PhotosMenu": "",
+            "LocationsMenu": "",
+            "EmptyPosts": "",
+            "EmptyPhotos": "",
+            "PermissionError": ""
+        },
+        "Registro": {
+            "LanguageButton": "",
+            "Texto1":"",
+            "NamePlaceHolder1": "",
+            "Texto2":"",
+            "SurNamePlaceHolder2": "",
+            "Texto3":"",
+            "NamePlaceHolder3": "",
+            "Texto4":"",
+            "NamePlaceHolder4": "",
+            "NamePlaceHolder5": "",
+            "Texto6":"",
+            "NamePlaceHolder6": "",
+            "Texto7":"",
+            "NamePlaceHolder7": "",
+            "Texto8":"",
+            "NamePlaceHolder8": "",
+            "Texto9":"",
+            "Texto10":"",
+            "Texto11":"",
+            "PPSubtitle1": "",
+            "PPSubtitleTouchable2": "",
+            "PPSubtitle3": "",
+            "PPSubtitleTouchable4": "",
+            "PPSubtitle5": "",
+            "Texto12": "",
+            "UKSubtitle1": "",
+            "ContinueHorizontalSlider": "",
+            "AcceptHorizontalSlider": "",
+            "AcceptHorizontalSlider2": "",
+            "ValidPassword": "",
+            "SpacePasswordError": "",
+            "CharactersPasswordError": "",
+            "MayuscPasswordError": "",
+            "MinuscPasswordError": "",
+            "NumberPasswordError": "",
+            "SpecialCharactersError": "",
+            "NotSamePasswords": "",
+            "NotValidEmail": "",
+            "PrefixNotValid": "",
+            "FillsEmptyError": ""
+        },
+        "Tutorial": {
+            "TitleTutorial": "",
+            "TitleNew": "",
+            "MenuTutorial": "",
+            "MenuNew": "",
+            "Welcome": "",
+            "Step": "",
+            "Footer": "",
+            "Tutorial": [
+                {
+                    "title": "",
+                    "description": []
+                },
+                {
+                    "title": "",
+                    "description": []
+                },
+                {
+                    "title": "",
+                    "description": []
+                },
+                {
+                    "title": "",
+                    "description": []
+                },
+                {
+                    "title": "",
+                    "description": []
+                },
+                {
+                    "title": "",
+                    "description": []
+                },
+                {
+                    "title": "",
+                    "description": []
+                },
+                {
+                    "title": "",
+                    "description": []
+                },
+                {
+                    "title": "",
+                    "description": []
+                },
+                {
+                    "title": "",
+                    "description": []
+                }
+            ],
+            "New": [
+                {
+                    "title": "",
+                    "description": []
+                },
+                {
+                    "title": "",
+                    "description": []
+                },
+                {
+                    "title": "",
+                    "description": []
+                },
+                {
+                    "title": "",
+                    "description": []
+                },
+                {
+                    "title": "",
+                    "description": []
+                },
+                {
+                    "title": "F",
+                    "description": []
+                },
+                {
+                    "title": "",
+                    "description": []
+                },
+                {
+                    "title": "",
+                    "description": []
+                },
+                {
+                    "title": "",
+                    "description": []
+                },
+                {
+                    "title": "",
+                    "description": []
+                }
+            ]
+        },
+        "Wallet": {
+            "Loader":"",
+            "Top": "",
+            "Menu1": "",
+            "Menu2": "",
+            "Menu3": ""
+        }
+    },
+    "components": {
+        "Blocks": {
+            "Community": {
+                "Modals": {
+                    "AddAdviceModal": {
+                        "Top": "",
+                        "Step1": "",
+                        "Step2": "",
+                        "BackButton": "",
+                        "GradientButton1": "",
+                        "GradientButton2": "",
+                        "TitleRender1": "",
+                        "SubtitleRender1": "",
+                        "UploadButton1Render1": "",
+                        "UploadButton2Render1": "",
+                        "TitleRender2": "",
+                        "SubtitleRender2": "",
+                        "Text1Render2": "",
+                        "TitlePlaceHolderRender2": "", 
+                        "Text2Render2": "",
+                        "DescriptionPlaceHolderRender2": "", 
+                        "TitleErrorMessages": "",
+                        "DescriptionErrorMessages": "",
+                        "CategoryErrorMessages": "",
+                        "LimitError1": "",
+                        "LimitError2": "",
+                        "PermissionError":""
+                    },
+                    "AddContactsModal": {
+                        "Top": "",
+                        "Step1": "",
+                        "Step2": "",
+                        "BackButton": "",
+                        "GradientButton1": "",
+                        "GradientButton2": "",
+                        "TitleRender1": "",
+                        "SubtitleRender1": "",
+                        "UploadButton1Render1": "",
+                        "UploadButton2Render1": "",
+                        "TitleRender2": "",
+                        "SubtitleRender2": "",
+                        "Text1Render2": "",
+                        "DescriptionPlaceHolderRender2": "", 
+                        "Text2Render2": "",
+                        "CheckBox1Render2": "",
+                        "CheckBox2Render2": "",
+                        "ValorationSubtitle": "",
+                        "ContactErrorMessages": "",
+                        "DescriptionErrorMessages": "",
+                        "CategoryErrorMessages": "",
+                        "RatingErrorMessages": "",
+                        "LimitError1": "",
+                        "LimitError2": "",
+                        "PermissionError":""
+                    },
+                    "AddTrickModal": {
+                        "Top": "",
+                        "Step1": "",
+                        "Step2": "",
+                        "BackButton": "",
+                        "GradientButton1": "",
+                        "GradientButton2": "",
+                        "TitleRender1": "",
+                        "SubtitleRender1": "",
+                        "UploadButton1Render1": "",
+                        "UploadButton2Render1": "",
+                        "TitleRender2": "",
+                        "SubtitleRender2": "",
+                        "Text1Render2": "",
+                        "TitlePlaceHolderRender2": "", 
+                        "Text2Render2": "",
+                        "DescriptionPlaceHolderRender2": "", 
+                        "TitleErrorMessages": "",
+                        "DescriptionErrorMessages": "",
+                        "CategoryErrorMessages": "",
+                        "LimitError1": "",
+                        "LimitError2": "",
+                        "PermissionError":""
+                    }
+                },
+                "AdviceBlock": {
+                    "Available": ""
+                },
+                "AdviceDetail": {
+                    "Following": "",
+                    "Follow": "",
+                    "LikesMessage": ""
+                },
+                "ContactsBlock": {
+                    "Available": ""
+                },
+                "ContactsDetail": {
+                    "Following": "",
+                    "Follow": "",
+                    "LikesMessage": "",
+                    "PreferContact": "",
+                    "Option1": "",
+                    "Option2": "",
+                    "Rate": ""
+                },
+                "FilterModal": {
+                    "Title": "",
+                    "Tricks": "",
+                    "Advice": "",
+                    "Contacts": ""
+                },
+                "NotificacionUser": {
+                    "AcceptUserTouchable": "",
+                    "RejectUserTouchable": "",
+                    "FollowTouchable": "",
+                    "FollowingTouchable": ""
+                },
+                "TrickBlock": {
+                    "Available": ""
+                },
+                "TrickDetail": {
+                    "Following": "",
+                    "Follow": "",
+                    "LikesMessage": ""
+                },
+                "UtilsCard": {
+                    "TricksTitle": "",
+                    "AdviceTitle": "",
+                    "ContactsTitle": "",
+                    "TricksAviable": "",
+                    "AdviceAviable": "",
+                    "ContactsAviable": "",
+                    "PostsTitle": "",
+                    "PostsAviable": ""
+                }
+            },
+            "Experiences": {
+                "Experiences": {
+                    "FriendsShare": ""
+                },
+                "List": {
+                    "Title": "",
+                    "DeletePhotoConfirmation": "",
+                    "SavePhotoConfirmation": "",
+                    "DeleteListConfirmation": "",
+                    "SaveListConfirmation": "",
+                    "AccessGalleryPermissionError": ""
+                },
+                "ListElement": {
+                    "Blocked": "",
+                    "Option": "",
+                    "DeletePlaceConfirmation": ""
+                }
+            },
+            "Menu": {
+                "MenuTouchable1": "",
+                "MenuTouchable2": "",
+                "MenuTouchable3": "",
+                "MenuTouchable4": ""
+            },
+            "Posts": {
+                "PostPlaceHolder": "",
+                "PublishText": "",
+                "Post": "",
+                "UploadedPostConfirmation": "",
+                "PermissionError":""
+            },
+            "Tarjeta": {
+                "QuestionText": "",
+                "AnswerText": ""
+            }
+        },
+        "Login": {
+            "Registro": {
+                "DatePicker": {
+                    "January": "",
+                    "February": "",
+                    "March": "",
+                    "April": "",
+                    "May": "",
+                    "June": "",
+                    "July": "",
+                    "August": "",
+                    "September": "",
+                    "October": "",
+                    "November": "",
+                    "December": ""
+                },
+                "GernderPicker": {
+                    "Male": "",
+                    "Female": "",
+                    "Other": ""
+                }
+            },
+            "LoginForm": {
+                "SignInTouchable":"",
+                "ForgottenPasswordTouchable": "",
+                "ForgottenPasswordTouchable2": "",
+                "FieldsErrorMessages": ""
+            },
+            "LogInInputs": {
+                "TlfInput": "",
+                "PasswordInput": ""
+            }
+        },
+        "Maps": {
+            "AddInfo": {
+                "Title": "",
+                "Subtitle": "",
+                "LocationNamePlaceHolder": "",
+                "CategoryPlaceHolder": "", 
+                "BestExperiencePlaceHolder": "",
+                "FriendPlaceHolder": "",
+                "RecomendationPlaceHolder": "",
+                "CommentsPlaceHolder": ""
+            },
+            "CityBlock": {
+                "DiscoverLocationSlider": "",
+                "Top": "",
+                "Title": "",
+                "Subtititle1": "",
+                "Subtititle2": "",
+                "UnBlockVerticalSlider": "",
+                "Title2": "",
+                "Subtitle2": "",
+                "UnBlockVerticalSlider2": ""
+            },
+            "MapContainer": {
+                "PermissionError":""
+            },
+            "PlaceBlock":{
+                "Top": "",
+                "Title": "",
+                "Subtitle1":"",
+                "Subtitle2":"",
+                "Title2": "",
+                "Subtitle3":"",
+                "UnBlockVerticalSlider": "",
+                "DiscoverVerticalSlider": ""
+            },
+            "PlaceInfo": {
+                "Top": "",
+                "OptionPicker": "",
+                "FriendsText": "",
+                "ValorationText": "",
+                "PhotoConfirmation": ""
+            }
+        },
+        "metricas": {
+            "MetricCard": {
+                "LastDay": "",
+                "LastWeek": "",
+                "LastMonth": "",
+                "Last3Month": "",
+                "Last6Month": "",
+                "LastYear": "",
+                "NotAvaliable": ""
+            },
+            "PeriodSelector": {
+                "PeriodTouchable": "",
+                "LastDay": "",
+                "LastWeek": "",
+                "LastMonth": "",
+                "Last3Month": "",
+                "Last6Month": "",
+                "LastYear": "",
+                "NotAvaliable": ""
+            }
+        },
+        "Preguntas": {
+            "ActionButtons": {
+                "LikeTouchable": "",
+                "SaveTouchable": ""
+            },
+            "AnswerCard": {
+                "Title": "",
+                "WriterSubtitle": ""
+            },
+            "QuestionCard": {
+                "ViewResponseTouchable": ""
+            }
+        },
+        "user": {
+            "AddHistoria": {
+                "CameraText": "",
+                "GalleryText": "",
+                "GalleryPermissionError":"",
+                "CameraPermissionError":""
+            },
+            "NewQuestionModal": {
+                "Title": "",
+                "Subtitle": "",
+                "Button": ""
+            },
+            "NotificacionesPerfil": {
+                "FollowersTitle": "",
+                "FollowersSubtitle": "",
+
+                "KyletsTitle": "",
+                "KyletsSubtitle": "",
+
+                "PostsTitle": "",
+                "PostsSubtitle": "",
+
+                "VisualizationsTitle": "",
+                "VisualizationsSubtitle": "",
+
+                "ListTitle": "",
+                "ListSubtitle": "",
+
+                "WelcomeTitle": "",
+                "WelcomeSubtitle": "",
+
+                "CommonTitle": "",
+                "CommonSubtitle": "",
+
+                "LocationTitle": "",
+                "LocationSubtitle": "",
+
+                "CreationTitle": "",
+                "CreationSubtitle": "",
+
+                "SavedTitle": "",
+                "SavedSubtitle": "",
+
+                "RoulleteTitle": "!",
+                "RoulleteSubtitle": "",
+
+                "ReminderTitle": "",
+                "ReminderSubtitle": "",
+
+                "ExperienceTitle": "",
+                "ExperienceSubtitle": "",
+
+                "Default": ""
+            },
+            "ResponseModal": {
+                "Title": "",
+                "Step": "",
+                "Back": "",
+                "GradientButton1": "",
+                "GradientButton2": "",
+                "AnswerInput": "",
+                "AnswerPlaceHolder": ""
+            },
+            "UserCard": {
+                "SendTouchable": ""
+            }
+        },
+        "Utils": {
+            "BlockedFuncionality": {
+                "Title": "",
+                "Subtitle": "",
+                "ContinueTouchable": ""
+            },
+            "SearcherInput": {
+                "KylotIdPlaceHolder": ""
+            },
+            "SitiosParecidos": {
+                "FriendText": ""
+            },
+            "Stories": {
+                "UploadedPostConfirmation": "",
+                "PermissionError":""
+            }
+        },
+        "Wallet": {
+            "Experiences": {
+                "Modals": {
+                    "AddContactoModal": {
+                        "Top": "",
+                        "Step1": "",
+                        "Step2": "",
+                        "BackButton": "",
+                        "GradientButton1": "",
+                        "GradientButton2": "",
+                        "TitleRender1": "",
+                        "SubtitleRender1": "",
+                        "UploadButton1Render1": "",
+                        "UploadButton2Render1": "",
+                        "TitleRender2": "",
+                        "SubtitleRender2": "",
+                        "Text1Render2": "",
+                        "DescriptionPlaceHolderRender2": "", 
+                        "Text2Render2": "",
+                        "CheckBox1Render2": "",
+                        "CheckBox2Render2": "",
+                        "ContactErrorMessages": "",
+                        "DescriptionErrorMessages": "",
+                        "CategoryErrorMessages": "",
+                        "RatingErrorMessages": "",
+                        "LimitError1": "",
+                        "LimitError2": "",
+                        "PermissionError":""
+                    },
+                    "AddExperienceModal": {
+                        "Top": "",
+                        "Step1": "",
+                        "Step2": "",
+                        "Step3": "",
+                        "Back": "",
+                        "GradientButton1": "",
+                        "GradientButton2":"",
+                        "Title": "",
+                        "Subtitle": "",
+                        "Title2": "",
+                        "Subtitle2": "",
+                        "Title3": "",
+                        "Subtitle3": "",
+                        "CityInput": "",
+                        "CityPlaceHolder": "",
+                        "CountrieInput": "" ,
+                        "CountriePlaceHolder": "",
+                        "TitleInput": "",
+                        "TitlePlaceHolder": "",
+                        "DescriptionInput": "",
+                        "DescriptionPlaceHolder": "",
+                        "DateInput": "",
+                        "DatePlaceHolder": "",
+                        "HourInput": "",
+                        "HourPlaceHolder": "",
+                        "FieldsErrorMessages": "",
+                        "TitleErrorMessages": "",
+                        "DescriptionErrorMessages": "",
+                        "PermissionError": ""
+                    },
+                    "AddPartModal": {
+                        "Top": "",
+                        "Step1": "",
+                        "Back": "",
+                        "GradientButton1": "",
+                        "GradientButton2":"",
+                        "Title": "",
+                        "Subtitle": "",
+                        "TitleInput": "",
+                        "TitlePlaceHolder": "",
+                        "HourInput": "",
+                        "HourPlaceHolder": "",
+                        "LocationInput": "",
+                        "LocationPlaceHolder": "",
+                        "GroupInput": "",
+                        "GroupPlaceHolder": "",
+                        "PlaceInput": "",
+                        "PlacePlaceHolder": "",
+                        "FieldsErrorMessages": "",
+                        "NameErrorMessages": "",
+                        "LocationErrorMessages": "",
+                        "PlaceErrorMessages": "",
+                        "GroupErrorMessages": "",
+                        "TimeErrorMessages": ""
+                    },
+                    "AddPostModal": {
+                        "Top": "",
+                        "Step1": "",
+                        "Step2": "",
+                        "Step3": "",
+                        "Back": "",
+                        "GradientButton1": "",
+                        "GradientButton2":"",
+                        "Title": "",
+                        "Subtitle": "",
+                        "CityInput": "",
+                        "CityPlaceHolder": "",
+                        "CountrieInput": "" ,
+                        "CountriePlaceHolder": "",
+                        "Title2": "",
+                        "Subtitle2": "",
+                        "TitleInput": "",
+                        "TitlePlaceHolder": "",
+                        "DateInput": "",
+                        "DatePlaceHolder": "",
+                        "LocationInput": "",
+                        "LocationPlaceHolder": "",
+                        "DescriptionInput": "",
+                        "DescriptionPlaceHolder": "",
+                        "RecomendationInput": "",
+                        "RecomendationPlaceHolder": "",
+                        "ValorationInput": "",
+                        "FriendsInput": "",
+                        "FriendsPlaceHolder": "",
+                        "FieldsErrorMessages": "",
+                        "TitleErrorMessages": "",
+                        "LocationErrorMessages": "",
+                        "DescriptionErrorMessages": "",
+                        "RecomendationErrorMessages": "",
+                        "PermissionError": ""
+                    },
+                    "AddStepsModal": {
+                        "Top": "",
+                        "Step1": "",
+                        "Step2": "",
+                        "Back": "",
+                        "GradientButton1": "",
+                        "GradientButton2":"",
+                        "Title": "",
+                        "Subtitle": "",
+                        "Title2": "",
+                        "Subtitle2": "",
+                        "StepInput": "",
+                        "StepPlaceHolder": "",
+                        "LocationInput": "",
+                        "LocationPlaceHolder": "",
+                        "DurationInput": "",
+                        "DurationPlaceHolder": "",
+                        "FieldsErrorMessages": "",
+                        "TitleErrorMessages": "",
+                        "LocationErrorMessages": "",
+                        "DurationErrorMessages": "",
+                        "PermissionError": ""
+                    },
+                    "AddVisitModal": {
+                        "Top": "",
+                        "Step1": "",
+                        "Step2": "",
+                        "Step3": "",
+                        "Back": "",
+                        "GradientButton1": "",
+                        "GradientButton2":"",
+                        "Title": "",
+                        "Subtitle": "",
+                        "CityInput": "",
+                        "CityPlaceHolder": "",
+                        "CountrieInput": "" ,
+                        "CountriePlaceHolder": "",
+                        "Title2": "",
+                        "Subtitle2": "",
+                        "TitleInput": "",
+                        "TitlePlaceHolder": "",
+                        "DateInput": "",
+                        "DatePlaceHolder": "",
+                        "TagInput1": "",
+                        "TagPlaceHolder1": "",
+                        "TagInput2": "",
+                        "TagPlaceHolder2": "",
+                        "FieldsErrorMessages": "",
+                        "TitleErrorMessages": "",
+                        "TagErrorMessages1": "",
+                        "TagErrorMessages2": "",
+                        "PermissionError": ""
+                    },
+                    "Comments": {
+                        "Title": "",
+                        "CommentsPlaceHolder": ""
+                    },
+                    "OpcionsModal":{
+                        "Title": "",
+                        "Edit": "",
+                        "AddStep": "",
+                        "Delete": "",
+                        "Cancel": ""
+                    }
+                },
+                "DayCard": {
+                    "January": "",
+                    "February": "",
+                    "March": "",
+                    "April": "",
+                    "May": "",
+                    "June": "",
+                    "July": "",
+                    "August": "",
+                    "September": "",
+                    "October": "",
+                    "November": "",
+                    "December": "",
+                    "Title1": "",
+                    "Title2": ""
+                },
+                "ExperienceCard": {
+                    "January": "",
+                    "February": "",
+                    "March": "",
+                    "April": "",
+                    "May": "",
+                    "June": "",
+                    "July": "",
+                    "August": "",
+                    "September": "",
+                    "October": "",
+                    "November": "",
+                    "December": "",
+                    "Of": "",
+                    "Button": ""
+                },
+                "PartCard": {
+                    "Step": "",
+                    "Contacts": "",
+                    "AndMore": ""
+                },
+                "PostCard": {
+                    "January1": "",
+                    "February1": "",
+                    "March1": "",
+                    "April1": "",
+                    "May1": "",
+                    "June1": "",
+                    "July1": "",
+                    "August1": "",
+                    "September1": "",
+                    "October1": "",
+                    "November1": "",
+                    "December1": "",
+                    "January2": "",
+                    "February2": "",
+                    "March2": "",
+                    "April2": "",
+                    "May2": "",
+                    "June2": "",
+                    "July2": "",
+                    "August2": "",
+                    "September2": "",
+                    "October2": "",
+                    "November2": "",
+                    "December2": "",
+                    "Of": "",
+                    "Title1": "",
+                    "Title2": "",
+                    "AndMore": ""
+                },
+                "VisitCard": {
+                    "January": "",
+                    "February": "",
+                    "March": "",
+                    "April": "",
+                    "May": "",
+                    "June": "",
+                    "July": "",
+                    "August": "",
+                    "September": "",
+                    "October": "",
+                    "November": "",
+                    "December": "",
+                    "Actual": "",
+                    "Day": "",
+                    "Days": ""
+                }
+            }
+        }
+    },
+    "services": {
+        "bankServices": {
+            "400": "",
+            "401": "",
+            "402": "",
+            "403": "",
+            "404": "",
+            "410": "",
+            "411": "",
+            "412": "",
+            "Default": ""
+        },
+        "buzonServices": {
+            "400": "",
+            "401": "",
+            "410": "",
+            "411": "",
+            "412": "",
+            "Default": ""
+        },
+        "communityServices": {
+            "400": "",
+            "401": "",
+            "402": "",
+            "403": "",
+            "404": "",
+            "405": "",
+            "410": "",
+            "411": "",
+            "412": "",
+            "Default": ""
+        },
+        "experienceServices": {
+            "400": "",
+            "401": "",
+            "402": "",
+            "403": "",
+            "404": "",
+            "405": "",
+            "406": "",
+            "407": "",
+            "408": "",
+            "410": "",
+            "411": "",
+            "412": "",
+            "Default": ""
+        },
+        "kyletsServices": {
+            "400": "",
+            "401": "",
+            "410": "",
+            "411": "",
+            "412": "",
+            "Default": ""
+        },
+        "logServices": {
+            "400": "",
+            "401": "",
+            "402": "",
+            "403": "",
+            "404": "",
+            "405": "",
+            "406": "",
+            "407": "",
+            "408": "",
+            "409": "",
+            "410": "",
+            "411": "",
+            "412": "",
+            "Default": ""
+        },
+        "mapsServices": {
+            "400": "",
+            "401": "",
+            "402": "",
+            "403": "",
+            "404": "",
+            "405": "",
+            "410": "",
+            "411": "",
+            "412": "",
+            "Default": ""
+        },
+        "metricsServices": {
+            "400": "",
+            "401": "",
+            "410": "",
+            "411": "",
+            "412": "",
+            "Default": ""
+        },
+        "notificationServices": {
+            "400": "",
+            "401": "",
+            "410": "",
+            "411": "",
+            "412": "",
+            "Default": ""
+        },
+        "profileServices": {
+            "400": "",
+            "401": "",
+            "402": "",
+            "403": "",
+            "404": "",
+            "405": "",
+            "406": "",
+            "410": "",
+            "411": "",
+            "412": "",
+            "Default": ""
+        },
+        "questionsServices": {
+            "400": "",
+            "401": "",
+            "402": "",
+            "403": "",
+            "404": "",
+            "405": "",
+            "406": "",
+            "407": "",
+            "408": "",
+            "409": "",
+            "410": "",
+            "411": "",
+            "412": "",
+            "Default": ""
+        },
+        "rankingServices": {
+            "400": "",
+            "401": "",
+            "410": "",
+            "411": "",
+            "412": "",
+            "Default": ""
+        },
+        "roulleteServices": {
+            "400": "",
+            "401": "",
+            "410": "",
+            "411": "",
+            "412": "",
+            "Default": ""
+        },
+        "walletServices": {
+            "400": "",
+            "401": "",
+            "402": "",
+            "403": "",
+            "404": "",
+            "405": "",
+            "406": "",
+            "407": "",
+            "410": "",
+            "411": "",
+            "412": "",
+            "Default": ""
+        }
+    }
+}

@@ -1,0 +1,3042 @@
+{
+  "pages": {
+    "AjustesPerfil": {
+      "ajustesPerfil": {
+        "Top": "Setings",
+        "Language": "Language preferences",
+        "EditProfile": "Edit profile",
+        "Notifications": "Notifications",
+        "Account": "Account settings",
+        "Privacity": "Privacy and security",
+        "Ambassador": "Ambassador program",
+        "Mailbox": "Help & feedback",
+        "Manifiesto": "Our manifesto",
+        "Card": "Kylot Card (Coming Soon...)",
+        "LogOut": "Sign Out"
+      },
+      "CodigoEmbajador": {
+        "Top": "Ambassador Program",
+        "shareText": "Join me on Kylot with code: {{variable1}}. Connect with thousdands of users and discover amazing experiences together",
+        "Title": "Invite friends, earn rewards!",
+        "Subtitle": "Share Kylot and unlock exclusive benefits.",
+        "Link": "Your referral link:",
+        "Share": "Share now",
+        "Reward1": "Earn",
+        "Reward2": " Kylets ",
+        "Reward3": "for every friend you invite.",
+        "References": "Your referrals",
+        "ReferencesPlaceHolder": "Search friends..."
+      },
+      "cuentaPerfil": {
+        "Top": "Account Settings",
+        "Email": "Change your Email",
+        "EmailPlaceHolder": "Enter your email",
+        "Password": "Change your Password",
+        "PasswordPlaceHolder": "Current password",
+        "NewPasswordPlaceHolder1": "New password",
+        "NewPasswordPlaceHolder2": "Confirm new password",
+        "GradientButton": "Save Changes",
+        "MessageConfirmation": "Changes saved successfully",
+        "PasswordError": "New passwords don't match",
+        "PasswordSpaceError": "Password cannot contain spaces",
+        "PasswordLengthError": "Password must be at least 8 characters",
+        "PasswordMajorError": "Include at least one uppercase letter",
+        "PasswordLowerError": "Include at least one lowercase letter",
+        "PasswordNumberError": "Include at least one number",
+        "PasswordSpecialError": "Include at least one special character (@, #, $, etc.)"
+      },
+      "editarPerfil": {
+        "Top": "Edit Profile",
+        "ProfilePicture": "Profile picture",
+        "NamePlaceHolder": "First name",
+        "SurnamePlaceHolder": "Last name",
+        "KylotIdPlaceHolder": "Kylot ID",
+        "TitlePlaceHolder": "Your Title",
+        "SentencePlaceHolder": "Bio",
+        "InstagramPlaceHolder": "Instagram handle",
+        "TikTokPlaceHolder": "TikTok handle",
+        "WhatsappPlaceHolder": "WhatsApp number",
+        "GradientButton": "Save Changes",
+        "MessageConfirmation": "Profile updated successfully",
+        "PermitsError": "Please allow access to your photo library"
+      },
+      "LanguageSelector": {
+        "Top": "Language",
+        "Title": "Choose your preferred language"
+      },
+      "Manifiesto": {
+        "Top": "Manifesto",
+        "Title": "Welcome Kyler",
+        "Subtitle": "Discover our philosophy and core values",
+        "Footer": "THE SKY IS NOT THE LIMIT",
+        "StepsTitle1": "Our WIN-WIN Philosophy",
+        "StepsDescription1": "Our business philosophy is built on the WIN-WIN concept: Creating value for everyone. This means that in every interaction, we, our users, partners, and collaborators all gain real benefits. We don't seek to win at others' expense, but to generate solutions where all parties thrive.",
+        "StepsTitle2": "The Birth of Kylot",
+        "StepsDescription2": "Kylot was born to transform the world, offering people, businesses, and institutions the opportunity to reach their best version regardless of their money or status. Here, the value you objectively contribute in your daily life and to the community is what truly matters.",
+        "StepsTitle3": "Constructive Competition",
+        "StepsDescription3": "We believe in competition as a tool for improvement, not for fighting. We trust in feedback as an instrument for a better system.",
+        "StepsTitle4": "Connection is Our Passion",
+        "StepsDescription4": "We love being connected, which is why at the core of our application beats a social network that unites our community from every corner of the planet.",
+        "StepsTitle5": "User-Focused Approach",
+        "StepsDescription5": "We design, implement, and improve every feature of our system thinking about people's real needs. Our users aren't just customers—they're the reason our application exists and the driving force behind every decision we make.",
+        "StepsTitle6": "Value System",
+        "StepsDescription6": "We quantify the daily lives of people, businesses, and institutions, creating a custom system that provides differential value. We're not just an app—we're a system designed to improve your life and reward the effort and actions that truly add value.",
+        "StepsTitle7": "Our Principles",
+        "StepsDescription7": "Money doesn't drive us—we are truthful, quality-focused, and intuitive. We love well-executed actions and adding value. With these principles, you'll reach the highest level of our system where you can enjoy life to the fullest.",
+        "StepsTitle8": "One Big Family",
+        "StepsDescription8": "We want to build one big family under the WIN-WIN motto, maintaining integrity, transparency, and honesty as our guiding principles.",
+        "StepsTitle9": "Innovation and Creativity",
+        "StepsDescription9": "At Kylot, we support our users' creativity. All features they propose that get implemented will generate direct benefits for them. We believe that those who add value should also receive it.",
+        "StepsTitle10": "Our Ultimate Goal",
+        "StepsDescription10": "Our ultimate goal... to create the world's largest Foundation dedicated to providing quality, up-to-date, and essential services to children and adolescents with educational and psychological needs. Therefore, we want to become the planet's largest and most contributory CSR social network.",
+        "StepsTitle11": "Privacy and Data",
+        "StepsDescription11": "We deeply value your privacy..."
+      },
+      "notificacionesPerfil": {
+        "Top": "Notifications",
+        "Title1": "Push Notifications",
+        "NewFollowers": "New followers",
+        "SubNewFollowers": "Get notified when someone follows you",
+        "Roullete": "Daily roulette reminder",
+        "SubRoullete": "Never miss your daily spin.",
+        "Kylets": "Kylets earned",
+        "SubKylets": "Celebrate every Kylet you earn.",
+        "FriendsPosts": "Friends' activity",
+        "SubFriendsPosts": "Stay updated on your friends' latest posts.",
+        "Visualizations": "Profile views",
+        "SubVisualizations": "See who's checking out your profile",
+        "NewList": "New list from friends",
+        "SubNewList": "Get notified when friends create lists",
+        "NewExperience": "New experience from friends",
+        "SubNewExperience": "Don't miss friends' latest experiences.",
+        "Title2": "Email notifications",
+        "News": "Kylot updates",
+        "SubNews": "Stay informed about new features and improvements.",
+        "Microfunctionalities": "Feature previews",
+        "SubMicrofunctionalities": "Be first to access new functionality."
+      },
+      "Privacidad": {
+        "Top": "Privacy & Security",
+        "Title": "Privacy settings",
+        "Contact": "Public contact info",
+        "TitleInfoModal": "What does this mean?",
+        "SubtitleInfoModal": "his allows other users to see your contact information in the community directory.",
+        "ButtonInfoModal": "Got it",
+        "TitleRouteModal": "abcde",
+        "SubTitleRouteModal": "abcde"
+      }
+    },
+    "BancoPages": {
+      "Buscador": {
+        "Top": "Send Kylets",
+        "SearcherPlaceHolder": "Search users",
+        "Title": "Send Kylets to:",
+        "Subtitle": "Help your contacts unlock their next Kylot experience.",
+        "EmptyList": "Your Kylers network is just getting started. Visit the community to connect with fellow explorers."
+      },
+      "Confirmacion": {
+        "Top": "Send Kylets",
+        "Title": "SUCCESS!",
+        "Subtitle1": "Successfully sent ",
+        "Subtitle2": "Kylets to ",
+        "Available": "Current balance:",
+        "HorizontalSlider": "CONTINUE",
+        "Date": "abcde",
+        "Amount": "abcde",
+        "January": "abcde",
+        "February": "abcde",
+        "March": "abcde",
+        "April": "abcde",
+        "May": "abcde",
+        "June": "abcde",
+        "July": "abcde",
+        "August": "abcde",
+        "September": "abcde",
+        "October": "abcde",
+        "November": "abcde",
+        "December": "abcde"
+      },
+      "Denegacion": {
+        "Top": "Send Kylets",
+        "Title": "ACCOUNT NOT FOUND",
+        "SubTitle": "No Kylot account found for this contact. If you believe this is an error, please contact our support team.",
+        "Button": "Back to home"
+      },
+      "Teclado": {
+        "Top": "Send Kylets",
+        "HorizontalSlider1": "Send",
+        "Available": "Current balance:",
+        "HorizontalSlider2": "CONTINUE"
+      },
+      "Transaction": {
+        "Top": "abcde",
+        "Title": "abcde",
+        "Subtitle": "abcde",
+        "GraficName": "abcde",
+        "EmptyExtracts": "abcde",
+        "CloseButton": "abcde",
+        "January": "abcde",
+        "February": "abcde",
+        "March": "abcde",
+        "April": "abcde",
+        "May": "abcde",
+        "June": "abcde",
+        "July": "abcde",
+        "August": "abcde",
+        "September": "abcde",
+        "October": "abcde",
+        "November": "abcde",
+        "December": "abcde"
+      }
+    },
+    "bienvenida": {
+      "Bienvenida": {
+        "Top": "Welcome Pack",
+        "Title": "Your Welcome Pack",
+        "Subtitle": "Get your starter Kylets to unlock daily benefits and help friends.",
+        "VerticalSlider": "CLAIM NOW",
+        "CongratulationsTitle": "CONGRATULATIONS!",
+        "CongratulationsSubtitle": "You've earned your first Kylets. Use them to unlock premium community features.",
+        "HorizontalSlider": "Get started"
+      }
+    },
+    "Buzon": {
+      "Buzon": {
+        "Top": "Help & Feedback",
+        "Title": "Get in touch",
+        "Subtitle": "Tap to 'Share your thoughts, report issues, or suggest improvements.",
+        "BookPlaceHolder": "Tell us what's on your mind...",
+        "BookTitle": "Share your feedback",
+        "GradientButton": "Send message",
+        "SendError": "Please write a message first",
+        "TitleConfimation": "Message sent!",
+        "SubtitleConfirmation": "Thanks for your feedback. Our team will review it shortly.",
+        "ButtonConfirmation": "CONTINUE"
+      }
+    },
+    "codigosVerificacion": {
+      "AnadirRecomendacion": {
+        "Top": "Locations",
+        "RegularName": "Add location",
+        "Title": "Add new location",
+        "Subtitle": "Share five of your favorite places with the Kylot community",
+        "SelectedLocations": "Selected locations",
+        "HorizontalSlider": "Continue",
+        "LocationsError": "Please complete all locations",
+        "NameError": "Location {{place}}: Name required",
+        "ValorationError": "Location {{place}}: Rating must be 1-7",
+        "LocationError": "Location {{place}}: Invalid location",
+        "PhotosError": "Location {{place}}: At least 1 photo required"
+      },
+      "CodigoVerificacion": {
+        "Title": "Verification",
+        "Subtitle": "Enter the access code we sent to {email}",
+        "NoCodeTitle": "Didn't receive the code?",
+        "NoCodeSubtitle": "Resend code",
+        "GradientButton": "Verify"
+      },
+      "Decision": {
+        "Title": "Application Status",
+        "Subtitle": "Kylot maintains high community standards to ensure a safe, positive environment for all members.",
+        "CheckDecision": "View status"
+      },
+      "DecisionNegativa": {
+        "Title": "New opportunity",
+        "Subtitle": "Your application wasn't approved this time, but don't give up!. You can reapply",
+        "HorizontalSlider": "Home",
+        "WhyToucheable": "Why wasn't I accepted?"
+      },
+      "DecisionPositiva": {
+        "Title": "Welcome to Kylot",
+        "Subtitle": "Your application has been approved. Welcome to our community!",
+        "HorizontalSlider": "Let's go"
+      },
+      "ThankYouScreen": {
+        "title": "Thanks",
+        "subtitle": "for being",
+        "highlight": "an **early**",
+        "endline": "adopter",
+        "description": "Phase one, starts with a preconfigured % integration. We'll add more over time.",
+        "invitationsLabel": "invitations",
+        "continueButton": "Continue"
+      },
+      "EsperarDecision": {
+        "Title": "Almost there!",
+        "Subtitle": "Your application is being reviewed. We'll notify you as soon as we have an update",
+        "HorizontalSlider": "Back"
+      },
+      "Invitacion": {
+        "Title": "Ambassador invitation",
+        "SubTitle": "Enter the invitation code from your friend to join their community.",
+        "CodePlaceHolder": "Enter invitation code",
+        "NoFunctionalCode": "Code not working?",
+        "SendCodeAgain": "Get help",
+        "GradientButton": "Join community"
+      },
+      "InvitacionEspecial": {
+        "Title": "Kylot Invitation",
+        "SubTitle": "You've been personally selected to join the Kylot community.",
+        "KylotCode": "Enter your special invitation code",
+        "CodePlaceHolder": "Enter code",
+        "NoFunctionalCode": "Code not working?",
+        "SendCodeAgain": "Get help",
+        "GradientButton": "Join nows"
+      },
+      "Recomendacion": {
+        "Title": "Share your secret locations",
+        "SubTitle": "Share 5 of your favorite places and let the community discover new experiences.",
+        "FavoritePlaces": "SHARE YOUR FAVORITE PLACES",
+        "HorizontalSlider": "Submit"
+      },
+      "Seleccion": {
+        "Title": "Join Kylot",
+        "SubTitle": "Choose how you'd like to join our community of explorers.",
+        "AccessMember": "INVITATION FROM A FRIEND",
+        "AccessKylot": "SPECIAL KYLOT INVITATION",
+        "AccessLocations": "SHARE YOUR FAVORITE PLACES"
+      },
+      "WhyScreen": {
+        "Top": "Access Request",
+        "Title": "Corrections",
+        "Err11": "Location 1 already exists",
+        "Err12": "Location 2 already exists",
+        "Err13": "Location 3 already exists",
+        "Err14": "Location 4 already exists",
+        "Err15": "Location 5 already exists",
+        "Err211": "The 'Best Experience' field for location 1 doesn't contain enough information",
+        "Err212": "The 'Recommendation' field for location 1 doesn't contain enough information",
+        "Err213": "The 'Comments' field for location 1 doesn't contain enough information",
+        "Err221": "The 'Best Experience' field for location 2 doesn't contain enough information",
+        "Err222": "The 'Recommendation' field for location 2 doesn't contain enough information",
+        "Err223": "The 'Comments' field for location 2 doesn't contain enough information",
+        "Err231": "The 'Best Experience' field for location 3 doesn't contain enough information",
+        "Err232": "The 'Recommendation' field for location 3 doesn't contain enough information",
+        "Err233": "The 'Comments' field for location 3 doesn't contain enough information",
+        "Err241": "The 'Best Experience' field for location 4 doesn't contain enough information",
+        "Err242": "The 'Recommendation' field for location 4 doesn't contain enough information",
+        "Err243": "The 'Comments' field for location 4 doesn't contain enough information",
+        "Err251": "The 'Best Experience' field for location 5 doesn't contain enough information",
+        "Err252": "The 'Recommendation' field for location 5 doesn't contain enough information",
+        "Err253": "The 'Comments' field for location 5 doesn't contain enough information",
+        "Err31": "Location 1 doesn't exist",
+        "Err32": "Location 2 doesn't exist",
+        "Err33": "Location 3 doesn't exist",
+        "Err34": "Location 4 doesn't exist",
+        "Err35": "Location 5 doesn't exist",
+        "Err41": "Location 1 is not properly positioned",
+        "Err42": "Location 2 is not properly positioned",
+        "Err43": "Location 3 is not properly positioned",
+        "Err44": "Location 4 is not properly positioned",
+        "Err45": "Location 5 is not properly positioned",
+        "Err51": "This access is currently unavailable",
+        "Default": "Unknown reason"
+      }
+    },
+    "ComunidadPages": {
+      "Activities": {
+        "SearcherPlaceHolder": "Search activities",
+        "Request": "Requests",
+        "GroupsSectionTitle": "Activities",
+        "NoItemsTexts": "No results found for your search",
+        "KyletsTitle": "You've earned {{variable1}} Kylets.",
+        "KyletsSubtitle": "Your community engagement is paying off. Keep it up",
+        "KyletsButton": "Keep earning",
+        "Title": "abcde",
+        "Subtitle": "abcde",
+        "CreateExperienceText": "abcde",
+        "CreateExperienceButton": "abcde"
+      },
+      "ActivityDetail": {
+        "Menu": "Members",
+        "Public": "Public",
+        "NotMemberTitle": "Not joining this activity?",
+        "NotMemberButton": "Join now",
+        "RequestTitle": "Waiting for admin approval",
+        "InvitationTitle": "You've been invited!",
+        "InvitationButton1": "Accept",
+        "InvitationButton2": "Decline",
+        "Request": "Requests",
+        "RequestPublicConfirmation": "You're in!",
+        "RequestConfirmation": "Request sent",
+        "DescriptionTitle": "Description",
+        "StartTitle": "Starts",
+        "EndTitle": "Ends",
+        "AceptConfirmation": "Invitation accepted",
+        "RejectConfirmation": "Invitation declined",
+        "KyletsTitle": "You've earned {{variable1}} Kylets.",
+        "KyletsSubtitle": "Your community engagement is paying off. Keep it up",
+        "KyletsButton": "Keep earning"
+      },
+      "ActivityRequest": {
+        "Top": "Requests",
+        "RequestButton1": "Accept",
+        "RequestButton2": "Decline",
+        "AceptConfirmation": "User accepted",
+        "RejectConfirmation": "User declined"
+      },
+      "Advice": {
+        "Top": "Tips"
+      },
+      "AdviceDetails": {
+        "Top": "Tips"
+      },
+      "CommunityMain": {
+        "SearcherPlaceHolder": "Search community",
+        "NoItemsTexts": "No results found",
+        "Title": "abcde",
+        "Subtitle": "abcde"
+      },
+      "Contacts": {
+        "Top": "Contacts"
+      },
+      "ContactsDetails": {
+        "Top": "Contacts"
+      },
+      "Create": {
+        "Top": "New Collaboration",
+        "Title": "What would you like to share?",
+        "Option1": "Tricks & Tips",
+        "Option2": "Recommendations",
+        "Option3": "Contacts"
+      },
+      "GroupDetail": {
+        "Public": "Public",
+        "DescriptionTitle": "Description",
+        "NotMemberTitle": "Not part of this group yet?",
+        "NotMemberButton": "Join now",
+        "RequestTitle": "Waiting for admin approval",
+        "InvitationTitle": "You've been invited!",
+        "InvitationButton1": "Accept",
+        "InvitationButton2": "Decline",
+        "Menu1": "Members",
+        "Menu2": "Social",
+        "Menu3": "Activities",
+        "Request": "Requests",
+        "RequestPublicConfirmation": "You're in!",
+        "RequestConfirmation": "Request sent",
+        "AceptConfirmation": "Invitation accepted",
+        "RejectConfirmation": "Invitation declined",
+        "WhatsAppLink": "WhatsApp Link",
+        "WhatsAppPlaceholder": "https://chat.whatsapp.com/...",
+        "WhatsAppSave": "Save",
+        "WhatsAppConnected": "WhatsApp connected",
+        "WhatsAppDisconnected": "WhatsApp disconnected",
+        "QuickPolls": "Quick Polls",
+        "CreatePoll": "Create Poll",
+        "PollQuestion": "What would you prefer to do?",
+        "PollOption1": "Option 1",
+        "PollOption2": "Option 2",
+        "PollSubmit": "Submit",
+        "PollResults": "Results",
+        "Stories": "Stories",
+        "CreateStory": "Create Story",
+        "ViewStories": "View Stories",
+        "NoStories": "No recent stories",
+        "StoryExpires": "Expires in {{time}}",
+        "AddToStory": "Add to Story",
+        "WhatsAppIcon": "WhatsApp"
+      },
+      "GroupRequest": {
+        "Top": "Requests",
+        "RequestButton1": "Accept",
+        "RequestButton2": "Decline",
+        "AceptConfirmation": "User accepted",
+        "RejectConfirmation": "User declined"
+      },
+      "LocationCreate": {
+        "Top": "New Collaboration",
+        "Title": "Location details",
+        "Subtitle": "Where is this experience?",
+        "CityTitle": "City",
+        "CityPlaceHolder": "Enter city",
+        "CountryTitle": "Country",
+        "CountryPlaceHolder": "Select country",
+        "GradientButton": "Continue",
+        "Alert1": "Please, complete this field",
+        "Alert2": "Please, select a country",
+        "KyletsTitle": "You've earned {{variable1}} Kylets.",
+        "KyletsSubtitle": "Your community engagement is paying off. Keep it up",
+        "KyletsButton": "Keep earning"
+      },
+      "Tricks": {
+        "Top": "Tricks"
+      },
+      "TricksDetails": {
+        "Top": "Tricks"
+      },
+      "Users": {
+        "SearcherPlaceHolder": "Search users or groups",
+        "Request": "Requests",
+        "UsersSectionTitle": "Users",
+        "GroupsSectionTitle": "Groups",
+        "NoItemsTexts": "No results found for your search",
+        "KyletsTitle": "You've earned {{variable1}} Kylets.",
+        "KyletsSubtitle": "Your community engagement is paying off. Keep it up",
+        "KyletsButton": "Keep earning",
+        "Title": "abcde",
+        "Subtitle": "abcde"
+      },
+      "Request": {
+        "Top": "abcde",
+        "Menu1": "abcde",
+        "Menu2": "abcde",
+        "aceptText": "abcde",
+        "rejectText": "abcde",
+        "ConfirmationMensajeAcept": "abcde",
+        "ConfirmationMensajeReject": "abcde",
+        "EmptyInvitationsTitle": "abcde",
+        "EmptyInvitationsSubtitle": "abcde",
+        "EmptyInvitationsTitleActivities": "abcde",
+        "EmptyInvitationsSubtitleActivities": "abcde",
+        "EmptyRequestsTitle": "abcde",
+        "EmptyRequestsSubtitle": "abcde",
+        "EmptyRequestsTitleActivities": "abcde",
+        "EmptyRequestsSubtitleActivities": "abcde",
+        "CreateGroupButton": "abcde",
+        "CreateActivityButton": "abcde",
+        "KyletsSubtitle": "abcde",
+        "KyletsButton": "abcde"
+      }
+    },
+    "contrasenia": {
+      "CodigoVerificacionContrasenia": {
+        "Title": "Verification",
+        "Subtitle": "The verification code has been sent to the email",
+        "ForgottenPasswordTouchable1": "Haven't received the email?",
+        "ForgottenPasswordTouchable2": "Click here",
+        "SetConfirmationMensaje": "Code sent successfully",
+        "GradientButton": "abcde"
+      },
+      "RecuperarContrasenia1": {
+        "Title": "Forgot your password?",
+        "EmailPlaceHolder": "Email",
+        "SendGradientButtton": "Send"
+      },
+      "RecuperarContrasenia2": {
+        "Title": "Create new password",
+        "NewPasswordPlaceHolder": "New Password",
+        "RepeatNewPasswordPlaceHolder": "Confirm new password",
+        "GradientButton": "Update password",
+        "NotEqualPasswordsError": "Passwords don't match",
+        "PasswordSpaceError": "Password cannot contain spaces",
+        "PasswordLengthError": "Password must be at least 8 characters",
+        "PasswordMajorError": "Include at least one uppercase letter",
+        "PasswordLowerError": "Include at least one lowercase letter",
+        "PasswordNumberError": "Include at least one number",
+        "PasswordSpecialError": "Include at least one special character (@, #, $, etc.)"
+      }
+    },
+    "Mapas": {
+      "AddMarket": {
+        "Top": "Locations",
+        "Title": "Add location",
+        "Subtitle": "Share an amazing place and help other Kylers discovere new adventures.",
+        "StorySubtitle": "Share your story",
+        "StorySubtitle2": "Tell your story and inspire others to create unforgettable experiences.",
+        "PreviousStoriesTitle": "Past experiences",
+        "PreviousStoriesSubtitle": "Previous Stories",
+        "PreviousStoriesSubtitle2": "Share memories from previous visits",
+        "ValorationSubtitle": "Your rating",
+        "OtherSimilarPlaces": "Similar Places",
+        "PublicationHorizontalSlider": "Share",
+        "WinKyletsModalTitle": "Win Kylets!",
+        "WinKyletsModalSubtitle1": "",
+        "WinKyletsModalSubtitle2": " Kylets",
+        "NotWinKyletsModalSubtitle": "By completing this section, you will be rewarded",
+        "WinKyletsModalPhoto1": "Kylets",
+        "WinKyletsModalPhoto2": "Kylets for 1st post",
+        "WinKyletsModalPhoto3": "Kylets for 2nd post and",
+        "WinKyletsModalPhoto4": "Kylets for 3rd post ",
+        "ContinueTouchable": "CONTINUE",
+        "Step1": "Location",
+        "Step2": "Moment",
+        "Step3": "Photos",
+        "Step4": "Details",
+        "Back": "Back",
+        "Next": "Next",
+        "MomentTitle": "Is this a special moment?",
+        "MomentSubtitle": "Mark this as a memorable experience",
+        "ToggleMoment": "Special Moment",
+        "ToggleMomentText1": "This place will be highlighted as a special experience",
+        "ToggleMomentText2": "This place will be shown as a regular location",
+        "InfoTitle": "Location Details",
+        "InfoSubtitle": "Complete thevinformation",
+        "MomentPlaceHolder": "Experience title",
+        "WinKyletsModalSubtitle": "abcde",
+        "IdErrorMessage": "abcde",
+        "NameErrorMessage": "abcde",
+        "categoryErrorMessage": "abcde",
+        "ValorationErrorMessage": "abcde",
+        "LocationErrorMessage": "abcde",
+        "PhotoErrorMessage": "abcde",
+        "AmountPhotosError": "abcde"
+      },
+      "AddRoute": {
+        "Top": "Upload Files",
+        "Title": "Upload your photos or videos",
+        "SubTitle": "You can select up to 10 files from your gallery or capture new ones right now.",
+        "SelectedImage": "Selected files",
+        "Video": "Video",
+        "GradientButton": "Upload files",
+        "SelectedImageError": "Please select at least one image.",
+        "UploadConfirmation": "Upload successful! 🎉"
+      },
+      "LocationPending": {
+        "Top": "My Requests",
+        "ApprovedMenu": "Approved",
+        "PendingsMenu": "Pending",
+        "DeniedMenu": "Declined",
+        "UploadDate": "Submitted on:",
+        "PendingTitle": "Under review",
+        "PendingSubtitle": "We'll notify you once we've reviewed your submission",
+        "PendingButton": "Continue exploring",
+        "KyletsTitle": "You've earned {{variable1}} Kylets.",
+        "KyletsSubtitle": "Your community engagement is paying off. Keep it up",
+        "KyletsButton": "Keep earning",
+        "PhotosAumontError": "Can't upload more than 10 photos",
+        "LocationConfirmation": "abcde",
+        "FieldsErrorMessages": "abcde"
+      }
+    },
+    "MetricasPages": {
+      "Cities": {
+        "Discover": "{{variable1}} of {{variable2}} locations discovered"
+      },
+      "Discover": {
+        "Top": "Your Progress",
+        "Discover": "{{variable1}} cities discovered"
+      }
+    },
+    "OnBoarding": {
+      "CategorySelect": {
+        "Top": "Onboarding",
+        "SkipTouchable": "Skip",
+        "CategoryTitle": "What interests you most?",
+        "CategorySubTitle": "Choose your preferences for personalized recommendations",
+        "HorizontalSlider": "Continue",
+        "SearchPlaceholder": "abcde",
+        "NoResults": "abcde"
+      },
+      "Final": {
+        "Title": "Your city",
+        "Subtitle": "We've curated amazing hidden gems and exclusive perks just for you",
+        "StartingHorizontalSlider": "Start exploring"
+      },
+      "Onboarding": {
+        "Top": "Onboarding",
+        "UploadPlaceHolder": "Add your profile photo",
+        "ContinueHorizontalSlider": "Continue",
+        "PermitsError": "Please allow access to your photo library",
+        "ConfirmationMensaje": "Photo uploaded successfully"
+      },
+      "Questions": {
+        "Top": "Kylot",
+        "ContinueTouchable": "Continue"
+      },
+      "Welcome": {
+        "Top": "Kylot",
+        "Title": "DISCOVER HIDDEN GEMS AND EXCLUSIVE PERKS IN YOUR CITY",
+        "GetStartedTouchable": "Get Started",
+        "TermsFooter": "By continuing, you agree to our Terms of Service and Privacy Policy"
+      },
+      "WelcomeToKylot": {
+        "Top": "Onboarding",
+        "Title1": "WELCOME TO THE ",
+        "Title2": "UNLIMITED WORLDWIDE ",
+        "Title3": "WIN-WIN COMMUNITY",
+        "ContinueHorizontalSlider": "Continue",
+        "Title": "abcde"
+      }
+    },
+    "Ranking": {
+      "RankingScreen": {
+        "Top": "Ranking",
+        "Title": "Leaderboard",
+        "Position": "Your rank",
+        "Kylets": "Your Kylets",
+        "OtherPosition": "Top performers",
+        "Option": "Weekly challenge",
+        "ExperienceKylets": "abcde",
+        "ListsKylets": "abcde",
+        "AlbumKylets": "abcde",
+        "Label1": "abcde",
+        "Label2": "abcde",
+        "Label3": "abcde",
+        "Label4": "abcde",
+        "KyletsPoints": "abcde",
+        "ExperiencePoints": "abcde",
+        "ListsPoints": "abcde",
+        "AlbumPoints": "abcde"
+      }
+    },
+    "Ruleta": {
+      "Ruleta": {
+        "Top": "Daily Roulette",
+        "Title": "CONGRATULATIONS",
+        "SubTitle1": "You've won'",
+        "SubTitle2": "new Kylets",
+        "ClaimHorizontalSlider": "CLAIM REWARD",
+        "Title2": "Spins reamining",
+        "SpinSubtitle": "Spin the wheel for daily rewards",
+        "SpinTouchable": "SPIN NOW",
+        "SubTitle": "abcde"
+      }
+    },
+    "usuarios": {
+      "BlockQuestion": {
+        "Top": "Questions",
+        "Title1": "LOCKED CONTENT",
+        "Subtitle1": "unlocking this answer costs",
+        "Subtitle2": " Kylets.",
+        "Title2": "CONGRATULATIONS",
+        "Subtitle3": "You can now view the answer from",
+        "VerticalSlider1": "DISCOVER",
+        "VerticalSlider2": "UNLOCK",
+        "VerticalSlider3": "UNLOCK",
+        "Subtitle": "abcde"
+      },
+      "ConfigRoute": {
+        "Top": "Routes",
+        "Title1": "My Information",
+        "Subtitle1": "Customize how your route appears",
+        "Title2": "Friends' Routes",
+        "Subtitle2": "Customize how you want your friends' routes to appear",
+        "Title3": "Share Route",
+        "Subtitle3": "Choose which users you want to share your route with.",
+        "EliminateConfirmation": "User removed",
+        "SearcherPlaceHolder": "abcde"
+      },
+      "ListaSeguidores": {
+        "Top": "Followers",
+        "NoFriendsSubtitle": "No followers yet"
+      },
+      "ListaSiguiendo": {
+        "Top": "Following",
+        "NoFriendsSubtitle": "No follows yet"
+      },
+      "OtroPerfil": {
+        "Top": "Profile",
+        "FollowersTouchable": " Followers",
+        "FollowingTouchable": " Following",
+        "FollowTouchable": "Follow",
+        "FollowingTouchable2": "Following",
+        "Title": "Description",
+        "Subtitle": "Kylot is a limitless real community built on WIN-WIN principles",
+        "PostsMenu": "Posts",
+        "PhotosMenu": "Photos",
+        "LocationsMenu": "Places",
+        "PublicationsText": "No posts yet. Visit the community section to start sharing",
+        "PhotosText": "No photos yet",
+        "FollowConfirmation": "You're now following this user",
+        "UnfollowConfirmation": "You've unfollowed this user"
+      },
+      "Preguntas": {
+        "Top": "Get to Know me",
+        "KyletsTitle": "You've earned {{variable1}} kylets.",
+        "KyletsSubtitle": "Your Kylot activity is paying off. You're already engaging with the community.",
+        "KyletsButton": "Keep earning"
+      }
+    },
+    "WalletPages": {
+      "Album": {
+        "Album": {
+          "Title": "Albums",
+          "Subtitle": "Create albums and explore your friends' collections",
+          "Menu1": "My Albums",
+          "Menu2": "Community",
+          "Menu3": "Kylot",
+          "InfoModalTitle": "Where will your friends be?",
+          "InfoModalSubtitle": "Tap the button so you don't miss out",
+          "InfoModalButton": "CONTINUE",
+          "NothingText": "abcde",
+          "KyletsTitle": "abcde",
+          "KyletsSubtitle": "abcde",
+          "KyletsButton": "abcde"
+        },
+        "AlbumDetail": {
+          "Top": "Album",
+          "Copy": "+ Copy",
+          "Percentage": "Completed",
+          "CompleteMilestoneConfirmation": "Upload successful!",
+          "CopyConfirmation": "Album copied successfully!",
+          "KyletsTitle": "You've earned {{variable1}} Kylets.",
+          "KyletsSubtitle": "Your community engagement is paying off. Keep it up",
+          "KyletsButton": "Keep earning",
+          "CancelButton": "abcde",
+          "ColaboratorsButton": "abcde",
+          "ColaboratorsInvitation": "abcde",
+          "ColaboratorsInvitationAcept": "abcde",
+          "ColaboratorsInvitationReject": "abcde",
+          "DeleteMilestoneConfirmation": "abcde"
+        }
+      },
+      "Experiencias": {
+        "ExperienceContacts": {
+          "Title": "Contacts",
+          "Top": "abcde"
+        },
+        "ExperienceDetail": {
+          "Top": "MyExperiences",
+          "Title": "Welcome to",
+          "Subtitle": "Your timeline in ",
+          "VisitsSubtitle2": "Your visits",
+          "VisitsSubtitle3": "TAll your visits to ",
+          "FechasSubtitle": "Dates",
+          "FechasSubtitle2": "Choose which visit to ",
+          "FechasSubtitle3": " you want to remember",
+          "PostSubtitle": "Posts",
+          "PostSubtitle2": "Create inspiring posts to share with the community",
+          "MyExperiencesSubtitle": "My experiences",
+          "MyExperiencesSubtitle2": "Explore, relive and share with your Kylot journal",
+          "Routes": "View route",
+          "KyletsTitle": "You've earned {{variable1}} kylets.",
+          "KyletsSubtitle": "Your community engagement is paying off. Keep it up",
+          "KyletsButton": "Keep earning",
+          "Likes": "abcde",
+          "Copied": "abcde",
+          "ColaboratorsInvitation": "abcde",
+          "ColaboratorsInvitationAcept": "abcde",
+          "ColaboratorsInvitationReject": "abcde",
+          "RouteSubtitle": "abcde",
+          "NoPosts": "abcde",
+          "TripDetailsTitle": "abcde",
+          "CountdownTexts": {
+            "StartsIn": "abcde",
+            "StartsToday": "abcde",
+            "AlreadyStarted": "abcde",
+            "NoDate": "abcde",
+            "Days": "abcde",
+            "Today": "abcde"
+          },
+          "DaySelector": {
+            "SelectDay": "abcde"
+          }
+        },
+        "Experiencias": {
+          "Title": "Experiences",
+          "Subtitle": "Create experiences and discover those from friends",
+          "ExploreTabButton": "Explore",
+          "UserTabButton": "User",
+          "CommunityTabButton": "Communities",
+          "EmptyExplore": "No experiences yet. Check back soon for new content!",
+          "EmptyUser": "You haven't created any experiences yet. Create your first one!",
+          "EmptyCommunity": "No saved experiences yet. Browse and save experiences you love!",
+          "EmptyFollow": "Your friends haven't created any experiences yet. Stay tuned!",
+          "ModalTitle": "Where will your friends be?",
+          "ModalSubtitle": "Stay updated on their adventures",
+          "ContinueTouchable": "CONTINUE",
+          "KyletsTitle": "You've earned {{variable1}} Kylets.",
+          "KyletsSubtitle": "Your community engagement is paying off. Keep it up",
+          "KyletsButton": "Keep earning",
+          "Pasaporte": {
+            "Title": "Passport",
+            "Subtitle": "Discover your collection of visited places"
+          },
+          "RetoDiario": {
+            "Title": "Daily Challenge",
+            "Subtitle": "Discover the most amazing moments from the community"
+          },
+          "Expose": {
+            "Title": "Expose",
+            "Subtitle": "Your year album of moments",
+            "CreateButton": "Create Expose",
+            "EmptyTitle": "You don't have any Expose",
+            "EmptySubtitle": "Create your moments album and generate your annual wrap"
+          },
+          "ExposeDetail": {
+            "Title": "My Expose",
+            "EditButton": "Edit",
+            "AddPhotos": "Add photos",
+            "GenerateWrap": "Generate Wrap",
+            "ShareButton": "Share",
+            "Empty": "Tap to add photos"
+          },
+          "ExposeMonthDetail": {
+            "Title": "Moments of ",
+            "AddPhotos": "Add photos",
+            "DeleteButton": "Delete",
+            "SaveButton": "Save",
+            "TitlePlaceholder": "Month title (optional)",
+            "EmptyTitle": "No photos",
+            "EmptySubtitle": "Add photos for this month"
+          },
+          "ExposeCreate": {
+            "Title": "Create Expose",
+            "TitleLabel": "Title",
+            "TitlePlaceholder": "Ex: My 2025",
+            "YearLabel": "Year",
+            "PrivacyLabel": "Privacy",
+            "PublicOption": "Public",
+            "PrivateOption": "Private",
+            "CoverLabel": "Cover photo",
+            "SelectCover": "Select cover",
+            "CreateButton": "Create Expose",
+            "CancelButton": "Cancel"
+          },
+          "ExposeWrap": {
+            "Title": "Your 2025 Wrap",
+            "SaveButton": "Save",
+            "ShareButton": "Share",
+            "Photos": "Photos",
+            "Months": "Completed months",
+            "TopMonth": "Month with most photos"
+          },
+          "DeleteConfirmationMessage": "abcde",
+          "Sections": {
+            "Fugaces": "abcde",
+            "MostCopied": "abcde",
+            "MostLiked": "abcde",
+            "Trending": "abcde",
+            "Nearby": "abcde",
+            "Recent": "abcde",
+            "Popular": "abcde",
+            "AllExperiences": "abcde",
+            "MyExperiences": "abcde",
+            "SharedExperiences": "abcde"
+          }
+        },
+        "RoutesMaps": {
+          "Top": "Routes",
+          "Title": "Visit",
+          "Menu1": "Places Visited",
+          "Menu2": "Posts Created",
+          "Menu3": "Times Inspired"
+        },
+        "Notes": {
+          "Top": "Notes",
+          "Title": "Personal Notes",
+          "Subtitle": "Notes created by the user for this experience",
+          "TitlePlaceHolder": "Title",
+          "NotePlaceHolder": "Write a note",
+          "ModalTitle": "Additional Information",
+          "ModalSubtitle": "This space is for sharing important considerations about this itinerary with other users",
+          "ContinueTouchable": "Continue",
+          "DeleteError": "Could not delete the note.",
+          "CreateError": "Could not create the note.",
+          "UpdateError": "Could not update the note."
+        },
+        "Reminder": {
+          "Top": "Reminders",
+          "Title": "Reminders",
+          "Subtitle": "Add reminders to each experience so you don't miss anything and live it to the fullest",
+          "ReminderPlaceHolder": "Write a reminder",
+          "DeleteError": "Could not delete the reminder.",
+          "CreateError": "Could not create the reminder.",
+          "UpdateError": "Could not update the reminder.",
+          "UpdateStateError": "Could not update the reminder status."
+        },
+        "StepGuide": {
+          "Title": "Step-by-step Guide",
+          "Subtitle1": "Step",
+          "Subtitle2": "of",
+          "InfoLabelSubtitle": "Location",
+          "InfoDurationLabelSubtitle": "Estimated duration",
+          "GradientButton1": "Complete",
+          "GradientButton2": "Next step",
+          "Subtitle": "abcde"
+        }
+      },
+      "Listas": {
+        "AddList": {
+          "Top": "My Collections",
+          "Title": "Create collections",
+          "Subtitle": "Curate your own collections and explore those from friends.",
+          "NewListPlaceHolder": "*New Collection",
+          "CategoryPlaceHolder": "*Category",
+          "PrivacyPicker": "Privacy settings",
+          "PublicPicker": "Public",
+          "PrivatePicker": "Private",
+          "DescriptionPlaceHolder": "*Description",
+          "Title2": "Add a cover photo",
+          "Subtitle2": "Choose a cover imagen from your collection",
+          "HorizontalSlider": "CREATE",
+          "FieldsErrorMessages": "Please fill in all required fields",
+          "AccessGalleryPermissionError": "Media library access required",
+          "Step1": "Cover",
+          "Step2": "Details",
+          "Back": "Back",
+          "NextButton1": "Create Collection",
+          "NextButton2": "Next",
+          "NameTitle": "Collection Name",
+          "TagTitle": "Category",
+          "DescriptionTitle": "Description",
+          "KyletsTitle": "You've earned {{variable1}} Kylets!",
+          "KyletsSubtitle1": "Your community engagement is paying off. Keep it up!",
+          "KyletsSubtitle2": "Your community engagement is paying off. Ready to earn more?",
+          "KyletsButton": "Keep Earning",
+          "NameError": "Please enter a collection name",
+          "TagError": "Please select a category",
+          "DescriptionError": "Please enter a description",
+          "SaveChanges": "abcde",
+          "EditedTitle": "abcde",
+          "EditedSubtitle": "abcde"
+        },
+        "FriendsLists": {
+          "Top": "Collections",
+          "Title": "Friends with collections",
+          "NoFriendsSubtitle": "No friends yet. Visit the community section to start connecting."
+        },
+        "Listas": {
+          "Title": "Collections",
+          "Subtitle": "Organize your favorite places and discover new destinations",
+          "PredeterminedList": "Friends",
+          "PredeterminedList2": "Saved collections",
+          "Subtitle2": "abcde",
+          "PredeterminedListSubtitle": "abcde",
+          "PredeterminedListSubtitle2": "abcde"
+        },
+        "OtherExperience": {
+          "Top": "Collections",
+          "MapError": "Map error occurred"
+        },
+        "savedList": {
+          "Top": "My Collections",
+          "Title": "Your saved collections",
+          "NoListsSavedSubtitle": "No saved collections yet. Explore friends' collections to get started"
+        }
+      },
+      "Rutas": {
+        "Rutas": {
+          "TitleModal": "Blocked",
+          "SubtitleModal": "This feature will be avaliable soon. Stay tunned!",
+          "ButtonModal": "CONTINUE"
+        }
+      },
+      "Colaborators": {
+        "Top": "abcde",
+        "TitleSend": "abcde",
+        "SubtitleSend": "abcde",
+        "EmptySend": "abcde",
+        "TitleAcept": "abcde",
+        "SubtitleAcept": "abcde",
+        "EmptyAcept": "abcde",
+        "TitleSelected": "abcde",
+        "GradientButton": "abcde",
+        "ConfirmationMensaje": "abcde"
+      }
+    },
+    "WeeklyProgress": {
+      "Weekly": {
+        "Top": "Daily Progress",
+        "Title": "CONGRATULATIONS",
+        "Subtitle1": "Amazing! You've earned!",
+        "Subtitle2": "new Kylets. Keep exploring to get more!",
+        "ClaimHorizontalSlider": "CLAIM",
+        "Day": "Day",
+        "Days": "Days",
+        "Title2": "KYLERS",
+        "Subtitle3": "Continue making the world a WIN-WIN place.",
+        "Subtitle4": "TOGETHER!",
+        "Monday": "M",
+        "Tuesday": "T",
+        "Wednesday": "W",
+        "Thursday": "TH",
+        "Friday": "F",
+        "Saturday": "S",
+        "Sunday": "SU",
+        "Subtitle": "abcde"
+      }
+    },
+    "Banco": {
+      "Top": "Kylot Bank",
+      "Title": "Send Kylets",
+      "Subtitle": "Choose how you want to share the magic",
+      "FriendsTouchableTitle": "Friends",
+      "FriendsTouchableSubtitle": "Send Kylets to friends so they can enjoy Kylot experiences.",
+      "PhoneTouchableTitle": "Phone Number",
+      "PhoneTouchableSubtitle": "Enter a phone number to send Kylets and spread the joy",
+      "GeneralInfoTitle": "abcde",
+      "GeneralInfoSubtitle": "abcde",
+      "MotivationalText": "abcde",
+      "ExtractsCategory": "abcde",
+      "ExtractsTitle": "abcde",
+      "ExtractsSubtitle": "abcde",
+      "FriendsCategory": "abcde",
+      "PhoneCategory": "abcde"
+    },
+    "Camara": {
+      "CameraPermissionError": "Camera access permission required"
+    },
+    "Categorias": {
+      "Top": "Categories",
+      "Title": "Select your favorite categories",
+      "GradientButton": "Save preferences",
+      "Loader": "Loading categories...",
+      "ConfirmationMensaje": "Categories updated successfully",
+      "SearchPlaceholder": "abcde",
+      "NoResults": "abcde"
+    },
+    "Comunidad": {
+      "Top": "Community",
+      "Menu1": "All",
+      "Menu2": "Users",
+      "Menu3": "abcde"
+    },
+    "FirstScreen": {
+      "Text1": "THE KEY OF THE UNLIMITED",
+      "Text2": "WORLDWIDE WIN-WIN",
+      "Text3": "COMMUNITY",
+      "Text4": "EST.2025"
+    },
+    "GlobeScreen": {
+      "Top": "Kylot World",
+      "HomeTouchable": "Home",
+      "AddLocationTouchable": "ADD LOCATION",
+      "LocationConfirmation": "Location uploaded succesfully",
+      "FieldsErrorMessages": "Please fill in all required fields",
+      "KyletsTitle": "You've earned {{variable1}} Kylets.",
+      "KyletsSubtitle": "Your community engagement is paying off. Keep it up",
+      "KyletsButton": "Keep earning",
+      "AmountMomentError": "Only 1 photo can be uploaded for moments",
+      "NameError": "Name is required",
+      "LocationError": "Invalid location",
+      "PhotoError": "At least one photo is required",
+      "ValorationError": "abcde",
+      "PhotoAumontError": "abcde",
+      "MomentConfirmation": "abcde"
+    },
+    "Home": {
+      "Loader": "Loading..."
+    },
+    "LoginScreen": {
+      "Title": "Welcome to Kylot",
+      "SignInTouchable": "Sign In",
+      "SignUpTouchable": "Sign Up"
+    },
+    "Mapa": {
+      "Top": "Kylot Map",
+      "LocationConfirmation": "Location uploaded succesfully",
+      "FieldsErrorMessages": "Please fill in all required fields",
+      "PermissionError": "Gallery access permission required",
+      "KyletsTitle": "You've earned {{variable1}} Kylets.",
+      "KyletsSubtitle": "Your community engagement is paying off. Keep it up",
+      "KyletsButton": "Keep earning",
+      "AmountMomentError": "Photo limit reached. You can upload up to 10 photos per moment.",
+      "NameError": "Location name is required",
+      "ValorationError": "Rating must be between 1 and 7",
+      "LocationError": "Please select a valid location",
+      "PhotoError": "Add at least one photo to share this experience",
+      "MomentPhotoError": "Only one photo per moment",
+      "Searcher": "abcde",
+      "MomentConfirmation": "abcde"
+    },
+    "Metricas": {
+      "Top": "Your journey",
+      "Title": "Overview",
+      "Subtitle": "Your adventure in numbers. Every Kylet tells a story",
+      "DiscoverWorldLabel": "Kylot World",
+      "DiscoverLocationsLabel": "Kylot Map",
+      "EarnedKylets": "Kylets Earned",
+      "FollowersLabel": "Total Followers",
+      "FriendsLabel": "Friends",
+      "NewFollowersTitle": "New followers today",
+      "NewFollowersSubtitle": "Check out their profiles and star connecting",
+      "Loader": "Loading your journey..."
+    },
+    "Notificaciones": {
+      "Loader": "Loading notifications...",
+      "Top": "Updates"
+    },
+    "OnBoardingIndex": {
+      "Screen1": "social",
+      "Title1": "JOIN OUR IMMERSIVE COMMUNITY",
+      "Screen2": "discover",
+      "Title2": "DISCOVER HIDDEN GEMS",
+      "Screen3": "welcome",
+      "Title3": "UNLOCK SECRET LOCATIONS",
+      "Screen4": "secrets",
+      "Title4": "EARN EXCLUSIVE REWARDS",
+      "Screen5": "benefits",
+      "Title5": "REAL-TIME ACTIVITIES AND EVENTS",
+      "Screen6": "GameIntro",
+      "Title6": "COLLECT KYLETS",
+      "Screen7": "LevelSystem",
+      "Title7": "LEVEL UP YOUR EXPERIENCE",
+      "Screen8": "KylotBox",
+      "Title8": "UNLOCK MISTERY BOXES",
+      "Screen9": "Foundation",
+      "Title9": "WHY KYLOT?"
+    },
+    "Perfil": {
+      "Top": "Profile",
+      "FollowersText": "{{variable1}} Followers",
+      "FollowingText": "{{variable1}} Following",
+      "EventsText": "Events",
+      "InteractionsText": "Interactions",
+      "Title": "Description",
+      "Subtitle": "Kylot is a real community where everyone wins together",
+      "PostMenu": "{{variable1}} Posts",
+      "PhotosMenu": "{{variable1}} Photos",
+      "LocationsMenu": "{{variable1}} Places",
+      "AchievementsMenu": "Achievements",
+      "ReputationMenu": "Reputation",
+      "StatisticsMenu": "Statistics",
+      "TopContactsMenu": "Top Contacts",
+      "EmptyPosts": "No posts yet? Join the community section to start sharing your adventures",
+      "EmptyPhotos": "No photos yet? Visit the map to add your first location or share a moment",
+      "PermissionError": "Location access needed to show nearby places",
+      "GradientButtonModal": "abcde",
+      "CancelButtonModal": "abcde",
+      "ExperienceLabel": "Experience",
+      "LevelText": "Level {{variable1}}",
+      "ExperienceText": "{{variable1}} / {{variable2}} XP",
+      "LevelIndicator": "Level {{variable1}}",
+      "BadgesText": "Badges",
+      "NewCategory": "New",
+      "Festivals2024": "Festivals 2024",
+      "RooftopParties": "Rooftop Parties",
+      "BehindScenes": "Behind Scenes",
+      "TabEvents": "Events",
+      "TabFollowers": "Followers",
+      "TabFollowing": "Following",
+      "TabBadges": "Badges",
+      "BadgesTitle": "Badges",
+      "BadgesEarned": "Badges Won",
+      "BadgesTotalAvailable": "Total Available",
+      "BadgesCompleted": "Completed",
+      "BadgesTabAll": "All",
+      "BadgesTabEvents": "Events",
+      "BadgesTabSocial": "Social",
+      "BadgesEmpty": "You don't have any badges yet",
+      "MostVisitedCities": "Most visited cities",
+      "MostVisitedCountries": "Most visited countries",
+      "TopContacts": "Top Contacts",
+      "TopContactsEmpty": "No contacts yet",
+      "VisitCount": "{{variable1}} visits",
+      "AchievementsTitle": "Achievements",
+      "AchievementsEmpty": "You haven't unlocked any achievements yet",
+      "AchievementUnlocked": "Unlocked",
+      "AchievementLocked": "Locked",
+      "AchievementProgress": "Progress",
+      "AchievementXP": "+{{variable1}} XP",
+      "ReputationTitle": "Reputation",
+      "ReputationScore": "Score",
+      "ReputationLevel": "Level",
+      "ReputationDescription": "Your reputation is based on your activity and contributions to the community",
+      "StatisticsTitle": "Statistics",
+      "StatisticsEmpty": "No statistics available",
+      "TotalPosts": "Total posts",
+      "TotalLikes": "Total likes",
+      "TotalComments": "Total comments",
+      "TotalShares": "Total shares",
+      "AverageRating": "Average rating",
+      "CompletionRate": "Completion rate"
+    },
+    "Registro": {
+      "LanguageButton": "Language",
+      "Texto1": "¿What's' your name?",
+      "NamePlaceHolder1": "NAME",
+      "Texto2": "What's your last name'?",
+      "SurNamePlaceHolder2": "LAST NAME",
+      "Texto3": "Choose your KylotID",
+      "NamePlaceHolder3": "KYLOTID",
+      "Texto4": "What's your phone number?",
+      "NamePlaceHolder4": "PREFIX",
+      "NamePlaceHolder5": "PHONE",
+      "Texto6": "What's your email'?",
+      "NamePlaceHolder6": "changeyourlife@kylot.es",
+      "Texto7": "Create a password",
+      "NamePlaceHolder7": "PASSWORD",
+      "Texto8": "Confirm your password",
+      "NamePlaceHolder8": "PASSWORD",
+      "Texto9": "When's your birthday?",
+      "Texto10": "What's your gender'",
+      "Texto11": "Privacy Policy",
+      "PPSubtitle1": "A small legal step before the fun! By continuing, you accept our",
+      "PPSubtitleTouchable2": "Terms of Service",
+      "PPSubtitle3": "and confirm you've read our",
+      "PPSubtitleTouchable4": "Privacy Policy",
+      "PPSubtitle5": "about how we take care of your data",
+      "Texto12": "Join Kylot",
+      "UKSubtitle1": "Welcome to Kylot! Join our community of explorers and access the best secrets, experiences, and corners of the planet. Request to become a member and start the adventure!",
+      "ContinueHorizontalSlider": "CONTINUE",
+      "AcceptHorizontalSlider": "ACCEPT",
+      "AcceptHorizontalSlider2": "",
+      "ValidPassword": "The password is valid",
+      "SpacePasswordError": "Password cannot contain spaces",
+      "CharactersPasswordError": "Password must be at least 8 characters",
+      "MayuscPasswordError": "Include at least one uppercase letter",
+      "MinuscPasswordError": "Include at least one lowercase letter",
+      "NumberPasswordError": "Include at least one number",
+      "SpecialCharactersError": "Include at least one special character (@, #, $, etc.).",
+      "NotSamePasswords": "Passwords don't match",
+      "NotValidEmail": "Please enter a valid email",
+      "PrefixNotValid": "Please check your phone number",
+      "FillsEmptyError": "Please fill in all fields",
+      "NoVisiblePass": "Show password",
+      "VisiblePass": "Hide password"
+    },
+    "Tutorial": {
+      "TitleTutorial": "Master Kylot: Unlock Every Hidden Feature",
+      "TitleNew": "What's New in Kylot",
+      "MenuTutorial": "Tutorial",
+      "MenuNew": "Updates",
+      "Welcome": "Welcome, Kyler",
+      "Step": "Step {{variable1}} of {{variable2}}",
+      "Footer": "THE SKY IS NOT THE LIMIT",
+      "Tutorial": [
+        {
+          "title": "WORLD GLOBE",
+          "photo": "Tutorial1.jpg",
+          "description": [
+            "Your world, your legacy: Kylot World is your personal atlas: conquered countries, created places, surprises to discover. Your travel story is written here, in real time."
+          ]
+        },
+        {
+          "title": "THE MAP'S SECRET",
+          "photo": "Tutorial2.jpg",
+          "description": [
+            "Participate in the community to discover experiences, moments and secret locations on the map. Your counter will change from blue to gold, and you'll have 24 hours to explore before new mysteries appear."
+          ]
+        },
+        {
+          "title": "MAP PIN COLORS",
+          "photo": "Tutorial3.jpg",
+          "description": [
+            "Each color tells a story",
+            "White: Country unlocked.",
+            "Black: Experience locked.",
+            "Gold: Experience unlocked.",
+            "Blue: Experience locked but of your interest."
+          ]
+        },
+        {
+          "title": "RANKING",
+          "photo": "Tutorial4.jpg",
+          "description": [
+            "Compete and stand out: Rise in the local and global ranking by participating in the community. Every action counts: from sharing locations to helping other travelers. Will you reach the top of your city?"
+          ]
+        },
+        {
+          "title": "BANK",
+          "photo": "Tutorial5.jpg",
+          "description": [
+            "Share the wealth: Access your Kylot Bank by tapping the crown and send Kylets to friends or members who have helped you."
+          ]
+        },
+        {
+          "title": "UNLOCK FUNCTIONS",
+          "photo": "Tutorial6.jpg",
+          "description": [
+            "Win-Win: To unlock locations created by other users you must use the Kylets you've earned by generating value in the community"
+          ]
+        },
+        {
+          "title": "KYLETS SYSTEM",
+          "photo": "Tutorial7.jpg",
+          "description": [
+            "Earn by helping others: Kylets are obtained by being useful: share incredible locations, create inspiring lists, contribute unique tricks, answer questions... The more you help, the more you earn."
+          ]
+        },
+        {
+          "title": "LISTS",
+          "photo": "Tutorial8.jpg",
+          "description": [
+            "Organize your dreams: Create personalized lists in WALLET, add discoveries from other travelers by tapping the plus on their locations and decide whether to share them with the community or keep them as your secret treasure."
+          ]
+        },
+        {
+          "title": "EXPERIENCES",
+          "photo": "Tutorial9.jpg",
+          "description": [
+            "Your adventure diary: Document each experience with location, categories, dates and photos. Relive your best moments, share them with other travelers and earn Kylets for inspiring."
+          ]
+        },
+        {
+          "title": "ROUTES",
+          "photo": "Tutorial10.jpg",
+          "description": [
+            "Trace your path: Visualize your complete itineraries with each detailed stop. Tap any location to relive your journey and share the perfect path with other adventurers."
+          ]
+        },
+        {
+          "title": "STEP BY STEP",
+          "photo": "Tutorial11.jpg",
+          "description": [
+            "Guide other travelers: Add detailed instructions in your itineraries so other members can easily reach those special places you discovered. Within the itinerary, users add this section with the goal of facilitating access to locations for other members"
+          ]
+        },
+        {
+          "title": "CONTACTS",
+          "photo": "Tutorial11.jpg",
+          "description": [
+            "Discover contacts recommended by other members: from local professionals to experts in different areas. Your trust network grows with each connection."
+          ]
+        },
+        {
+          "title": "NOTES",
+          "photo": "Tutorial11.jpg",
+          "description": [
+            "Save ideas, reflections and discoveries instantly in your itinerary. Your notes sync with specific places and moments, creating your intelligent personal diary and helping other users take them into consideration."
+          ]
+        },
+        {
+          "title": "REMINDERS",
+          "photo": "Tutorial14.jpg",
+          "description": [
+            "Schedule reminders associated with each experience to enjoy them to the fullest, remember they are completely private."
+          ]
+        },
+        {
+          "title": "ALBUM",
+          "photo": "Tutorial15.jpg",
+          "description": [
+            "Create albums of experiences that you have to fulfill 100%. Make your memories come alive and keep the best ones organized."
+          ]
+        },
+        {
+          "title": "TRICKS",
+          "photo": "Tutorial16.jpg",
+          "description": [
+            "The best kept secrets: Do you know a shortcut to get what you need, a trick to save time or a more efficient method? Share your life hacks by categories and help the community live smarter."
+          ]
+        },
+        {
+          "title": "TIPS",
+          "photo": "Tutorial17.jpg",
+          "description": [
+            "Tips worth gold: Forget searching through a thousand websites. Here you'll find practical advice from real people, organized by categories, to solve any need in your daily life."
+          ]
+        },
+        {
+          "title": "CONTACTS",
+          "photo": "Tutorial18.jpg",
+          "description": [
+            "Your trust network: Discover contacts recommended by other community members: from local professionals to experts in different areas. Your trust network awaits you."
+          ]
+        },
+        {
+          "title": "GROUPS",
+          "photo": "Tutorial19.jpg",
+          "description": [
+            "Create your groups or connect with local groups from the community recommended by other members: from professionals to enthusiasts who share your interests. Discover communities that will transform your way of connecting."
+          ]
+        },
+        {
+          "title": "ACTIVITIES",
+          "photo": "Tutorial20.jpg",
+          "description": [
+            "Create activities or participate in others created by other community members where you can discover new experiences and wonderful people."
+          ]
+        },
+        {
+          "title": "QUESTIONS",
+          "photo": "Tutorial21.jpg",
+          "description": [
+            "Share your story: Every day you'll receive a unique question on your profile. Answer and earn Kylets, while other members can get to know you better by investing their Kylets to read your answers."
+          ]
+        },
+        {
+          "title": "KYLOT SECTIONS",
+          "photo": "Tutorial22.jpg",
+          "description": [
+            "Don't get too comfortable, they will change very quickly, and others are secret",
+            "Map: Main discovery and interaction point for users: create moments, see what your friends do...",
+            "Wallet: Space to save all memories, experiences, recommendations both your own and from users...",
+            "Community: Meeting point between activities, groups, users and information created by users.",
+            "Secret",
+            "Profile: Space where all user information resides.",
+            "Bank: Accessible through the crown in the upper right corner",
+            "WELCOME TO YOUR COMMUNITY"
+          ]
+        }
+      ],
+      "New": [
+        {
+          "title": "WORLD GLOBE",
+          "photo": "Tutorial1.jpg",
+          "description": [
+            "Your world, your legacy: Kylot World is your personal atlas: conquered countries, created places, surprises to discover. Your travel story is written here, in real time."
+          ]
+        },
+        {
+          "title": "THE MAP'S SECRET",
+          "photo": "Tutorial2.jpg",
+          "description": [
+            "Participate in the community to discover experiences, moments and secret locations on the map. Your counter will change from blue to gold, and you'll have 24 hours to explore before new mysteries appear."
+          ]
+        },
+        {
+          "title": "MAP PIN COLORS",
+          "photo": "Tutorial3.jpg",
+          "description": [
+            "Each color tells a story",
+            "White: Country unlocked.",
+            "Black: Experience locked.",
+            "Gold: Experience unlocked.",
+            "Blue: Experience locked but of your interest."
+          ]
+        },
+        {
+          "title": "RANKING",
+          "photo": "Tutorial4.jpg",
+          "description": [
+            "Compete and stand out: Rise in the local and global ranking by participating in the community. Every action counts: from sharing locations to helping other travelers. Will you reach the top of your city?"
+          ]
+        },
+        {
+          "title": "BANK",
+          "photo": "Tutorial5.jpg",
+          "description": [
+            "Share the wealth: Access your Kylot Bank by tapping the crown and send Kylets to friends or members who have helped you."
+          ]
+        },
+        {
+          "title": "UNLOCK FUNCTIONS",
+          "photo": "Tutorial6.jpg",
+          "description": [
+            "Win-Win: To unlock locations created by other users you must use the Kylets you've earned by generating value in the community"
+          ]
+        },
+        {
+          "title": "KYLETS SYSTEM",
+          "photo": "Tutorial7.jpg",
+          "description": [
+            "Earn by helping others: Kylets are obtained by being useful: share incredible locations, create inspiring lists, contribute unique tricks, answer questions... The more you help, the more you earn."
+          ]
+        },
+        {
+          "title": "LISTS",
+          "photo": "Tutorial8.jpg",
+          "description": [
+            "Organize your dreams: Create personalized lists in WALLET, add discoveries from other travelers by tapping the plus on their locations and decide whether to share them with the community or keep them as your secret treasure."
+          ]
+        },
+        {
+          "title": "EXPERIENCES",
+          "photo": "Tutorial9.jpg",
+          "description": [
+            "Your adventure diary: Document each experience with location, categories, dates and photos. Relive your best moments, share them with other travelers and earn Kylets for inspiring."
+          ]
+        },
+        {
+          "title": "ROUTES",
+          "photo": "Tutorial10.jpg",
+          "description": [
+            "Trace your path: Visualize your complete itineraries with each detailed stop. Tap any location to relive your journey and share the perfect path with other adventurers."
+          ]
+        },
+        {
+          "title": "STEP BY STEP",
+          "photo": "Tutorial11.jpg",
+          "description": [
+            "Guide other travelers: Add detailed instructions in your itineraries so other members can easily reach those special places you discovered. Within the itinerary, users add this section with the goal of facilitating access to locations for other members"
+          ]
+        },
+        {
+          "title": "CONTACTS",
+          "photo": "Tutorial11.jpg",
+          "description": [
+            "Discover contacts recommended by other members: from local professionals to experts in different areas. Your trust network grows with each connection."
+          ]
+        },
+        {
+          "title": "NOTES",
+          "photo": "Tutorial11.jpg",
+          "description": [
+            "Save ideas, reflections and discoveries instantly in your itinerary. Your notes sync with specific places and moments, creating your intelligent personal diary and helping other users take them into consideration."
+          ]
+        },
+        {
+          "title": "REMINDERS",
+          "photo": "Tutorial14.jpg",
+          "description": [
+            "Schedule reminders associated with each experience to enjoy them to the fullest, remember they are completely private."
+          ]
+        },
+        {
+          "title": "ALBUM",
+          "photo": "Tutorial14.jpg",
+          "description": [
+            "Create albums of experiences that you have to fulfill 100%. Make your memories come alive and keep the best ones organized."
+          ]
+        },
+        {
+          "title": "TRICKS",
+          "photo": "Tutorial16.jpg",
+          "description": [
+            "The best kept secrets: Do you know a shortcut to get what you need, a trick to save time or a more efficient method? Share your life hacks by categories and help the community live smarter."
+          ]
+        },
+        {
+          "title": "TIPS",
+          "photo": "Tutorial17.jpg",
+          "description": [
+            "Tips worth gold: Forget searching through a thousand websites. Here you'll find practical advice from real people, organized by categories, to solve any need in your daily life."
+          ]
+        },
+        {
+          "title": "CONTACTS",
+          "photo": "Tutorial18.jpg",
+          "description": [
+            "Your trust network: Discover contacts recommended by other community members: from local professionals to experts in different areas. Your trust network awaits you."
+          ]
+        },
+        {
+          "title": "GROUPS",
+          "photo": "Tutorial19.jpg",
+          "description": [
+            "Create your groups or connect with local groups from the community recommended by other members: from professionals to enthusiasts who share your interests. Discover communities that will transform your way of connecting."
+          ]
+        },
+        {
+          "title": "ACTIVITIES",
+          "photo": "Tutorial20.jpg",
+          "description": [
+            "Create activities or participate in others created by other community members where you can discover new experiences and wonderful people."
+          ]
+        },
+        {
+          "title": "QUESTIONS",
+          "photo": "Tutorial21.jpg",
+          "description": [
+            "Share your story: Every day you'll receive a unique question on your profile. Answer and earn Kylets, while other members can get to know you better by investing their Kylets to read your answers."
+          ]
+        },
+        {
+          "title": "KYLOT SECTIONS",
+          "photo": "Tutorial22.jpg",
+          "description": [
+            "Don't get too comfortable, they will change very quickly, and others are secret",
+            "Map: Main discovery and interaction point for users: create moments, see what your friends do...",
+            "Wallet: Space to save all memories, experiences, recommendations both your own and from users...",
+            "Community: Meeting point between activities, groups, users and information created by users.",
+            "Secret",
+            "Profile: Space where all user information resides.",
+            "Bank: Accessible through the crown in the upper right corner",
+            "WELCOME TO YOUR COMMUNITY"
+          ]
+        }
+      ],
+      "Top": "Tutorial"
+    },
+    "Wallet": {
+      "Loader": "Loading...",
+      "Top": "Experiences",
+      "Menu1": "Collections",
+      "Menu2": "Experiences",
+      "Menu3": "Álbums",
+      "Pasaporte": {
+        "Title": "Passport"
+      },
+      "RetoDiario": {
+        "Title": "Daily Challenge"
+      },
+      "Expose": {
+        "Title": "Expose"
+      }
+    },
+    "MarketPlacePages": {
+      "Details": {
+        "Top": "abcde",
+        "shareText": "abcde",
+        "Description": {
+          "Title": "abcde",
+          "Content": "abcde"
+        },
+        "Menu1": "abcde",
+        "Menu2": "abcde",
+        "Menu3": "abcde",
+        "ValorationTitle": "abcde",
+        "confimationMessage": "abcde",
+        "Actions": {
+          "Share": "abcde",
+          "Save": "abcde",
+          "More": "abcde"
+        },
+        "Hero": {
+          "Title": "abcde",
+          "Subtitle": "abcde",
+          "Location": "abcde",
+          "Rating": "abcde"
+        },
+        "Rating": {
+          "Title": "abcde",
+          "Subtitle": "abcde",
+          "WriteReview": "abcde",
+          "SeeAll": "abcde",
+          "Excellent": "abcde",
+          "VeryGood": "abcde",
+          "Good": "abcde",
+          "Average": "abcde",
+          "Poor": "abcde"
+        },
+        "BenefitValue": {
+          "Title": "abcde",
+          "OriginalPrice": "abcde",
+          "YourPrice": "abcde",
+          "Savings": "abcde",
+          "Currency": "abcde"
+        },
+        "Reviews": {
+          "Title": "abcde",
+          "Subtitle": "abcde",
+          "WriteReview": "abcde",
+          "FilterAll": "abcde",
+          "FilterRecent": "abcde",
+          "FilterHigh": "abcde",
+          "FilterLow": "abcde",
+          "NoReviews": "abcde",
+          "BeFirst": "abcde"
+        },
+        "UserPhotos": {
+          "Title": "abcde",
+          "Subtitle": "abcde"
+        },
+        "Review": {
+          "Title": "abcde",
+          "MainTitle": "abcde",
+          "Description": "abcde",
+          "Placeholder": "abcde",
+          "Submit": "abcde",
+          "Cancel": "abcde"
+        },
+        "Price": {
+          "From": "abcde",
+          "Average": "abcde",
+          "Currency": "abcde"
+        },
+        "CTA": {
+          "Reserve": "abcde",
+          "Contact": "abcde"
+        },
+        "WhatsIncluded": {
+          "Title": "abcde",
+          "Items": {
+            "Tour": "abcde",
+            "TourDesc": "abcde",
+            "TourExpanded": "abcde",
+            "Museum": "abcde",
+            "MuseumDesc": "abcde",
+            "MuseumExpanded": "abcde",
+            "Locker": "abcde",
+            "LockerDesc": "abcde",
+            "LockerExpanded": "abcde",
+            "Field": "abcde",
+            "FieldDesc": "abcde",
+            "FieldExpanded": "abcde",
+            "Gift": "abcde",
+            "GiftDesc": "abcde",
+            "GiftExpanded": "abcde"
+          }
+        },
+        "Consumed": {
+          "Top": "abcde",
+          "Title": "abcde",
+          "Subtitle": "abcde",
+          "EmptyTitle": "abcde",
+          "EmptySubtitle": "abcde",
+          "ConsumedTitle": "abcde",
+          "ProductsTitle": "abcde",
+          "DateLabel": "abcde",
+          "PointsLabel": "abcde",
+          "StatusLabel": "abcde"
+        },
+        "MoreActions": {
+          "Title": "abcde",
+          "ShareFeedback": {
+            "Title": "abcde",
+            "Subtitle": "abcde"
+          },
+          "ContactSupport": {
+            "Title": "abcde",
+            "Subtitle": "abcde"
+          },
+          "PrivacySecurity": {
+            "Title": "abcde",
+            "Subtitle": "abcde"
+          }
+        }
+      }
+    },
+    "MarketPlace": {
+      "Top": "abcde",
+      "SubText": "abcde",
+      "Menu1": "abcde",
+      "Menu2": "abcde",
+      "Menu3": "abcde",
+      "Menu4": "abcde",
+      "SocialTitle": "abcde",
+      "SocialSubtitle": "abcde",
+      "MarketplaceTitle": "abcde",
+      "MarketplaceSubtitle": "abcde",
+      "BenefitsTitle": "abcde",
+      "BenefitsSubtitle": "abcde",
+      "CompensationTitle": "abcde",
+      "CompensationSubtitle": "abcde",
+      "CompensationInfoTitle": "abcde",
+      "CompensationInfoText": "abcde",
+      "CompensationSection1": "abcde",
+      "CompensationSection1Sub": "abcde",
+      "CompensationSection2": "abcde",
+      "CompensationSection2Sub": "abcde",
+      "CompensationSection3": "abcde",
+      "CompensationSection3Sub": "abcde",
+      "Title1": "abcde",
+      "Title2": "abcde",
+      "Title3": "abcde",
+      "Title4": "abcde",
+      "Title5": "abcde",
+      "Title6": "abcde",
+      "BenefitTitle1": "abcde",
+      "BenefitTitle2": "abcde",
+      "BenefitTitle3": "abcde",
+      "BenefitTitle4": "abcde",
+      "BenefitTitle5": "abcde",
+      "BenefitTitle6": "abcde",
+      "SearcherPlaceHolder": "abcde",
+      "BenefitsBanner": {
+        "BenefitText": "abcde",
+        "Title": "abcde",
+        "Subtitle": "abcde"
+      },
+      "MarketplaceBanner": {
+        "BenefitText": "abcde",
+        "Title": "abcde",
+        "Subtitle": "abcde"
+      },
+      "Filters": {
+        "All": "abcde",
+        "Promociones": "abcde",
+        "Snacks": "abcde",
+        "Saludable": "abcde",
+        "Mediterránea": "abcde",
+        "Asiática": "abcde"
+      }
+    }
+  },
+  "components": {
+    "Blocks": {
+      "Community": {
+        "Groups": {
+          "ActivityCard": {
+            "January": "January",
+            "February": "February",
+            "March": "March",
+            "April": "April",
+            "May": "May",
+            "June": "June",
+            "July": "July",
+            "August": "August",
+            "September": "September",
+            "October": "October",
+            "November": "November",
+            "December": "December",
+            "Of": "of"
+          },
+          "AddActivity": {
+            "Top": "New activity",
+            "Menu1": "1. Photo",
+            "Menu2": "2. Details",
+            "Menu3": "3. Invitations",
+            "Menu4": "4. Location",
+            "GradientButton1": "Publish",
+            "GradientButton2": "Next",
+            "Back": "Back",
+            "Title": "Activity details",
+            "Subtitle": "Tell us more about your upcoming activity",
+            "Title2": "Invitation management",
+            "Subtitle2": "Search for users you want to invite",
+            "TitleInput": "Name",
+            "TitlePlaceHolder": "Name",
+            "Description": "Description",
+            "Start": "Start",
+            "End": "End",
+            "DayPlaceHolder": "DD/MM/YYYY",
+            "HourPlaceHolder": "HH:MM",
+            "Public": "The event is public",
+            "PublicSubtext": "If you check this, everyone will be able to see your activity",
+            "AutomaticAprove": "Automatic approval",
+            "AutomaticAproveSubtext": "All users who want to join will do so automatically",
+            "SearcherPlaceHolder": "Search users or groups",
+            "UsersSectionTitle": "Users",
+            "GroupsSectionTitle": "Groups",
+            "NoItemsTexts": "No items found in your search",
+            "LocationTitle": "Location",
+            "LocationSubtitle": "Select the location associated with the Itinerary.",
+            "PhotoAumontError": "You must select a photo.",
+            "NameError": "Name cannot be empty.",
+            "DescriptionError": "Description cannot be empty.",
+            "StartDayError": "Start day must have DD/MM/YYYY format.",
+            "EndDayError": "End day must have DD/MM/YYYY format.",
+            "StartHourError": "Start time must have HH:mm format.",
+            "EndHourError": "End time must have HH:mm format.",
+            "InvitationsError": "You must select at least one user or group.",
+            "LocationError": "Location is not valid",
+            "PermissionError": "Gallery access permissions are required"
+          },
+          "AddGroup": {
+            "Title": "Create your group",
+            "NameTitle": "Group name",
+            "NamePlaceHolder": "Name",
+            "DescriptionTitle": "Description",
+            "DescriptionPlaceHolder": "Description",
+            "InvitationsTitle": "Invite your friends",
+            "AutomaticAprove": "Free access:",
+            "GradientButton": "Create"
+          },
+          "AddUsers": {
+            "Title": "Invite users",
+            "SearcherPlaceHolder": "Search users",
+            "NoUserAddText": "You haven't added any users yet"
+          },
+          "GroupCard": {
+            "Members": "Members"
+          }
+        },
+        "Modals": {
+          "AddAdviceModal": {
+            "Top": "New Tip",
+            "Step1": "1. Media",
+            "Step2": "2. Details",
+            "BackButton": "Back",
+            "GradientButton1": "Next",
+            "GradientButton2": "Save",
+            "TitleRender1": "New Tip",
+            "SubtitleRender1": "Add photos or videos!",
+            "UploadButton1Render1": "Upload photo or video",
+            "UploadButton2Render1": "Maximum 10 media files reached",
+            "TitleRender2": "New Tip",
+            "SubtitleRender2": "Tell us about your tip",
+            "Text1Render2": "Title",
+            "TitlePlaceHolderRender2": "Enter a title",
+            "Text2Render2": "Description",
+            "DescriptionPlaceHolderRender2": "Enter a description",
+            "TitleErrorMessages": "Title is required",
+            "DescriptionErrorMessages": "Description is required",
+            "CategoryErrorMessages": "Category is required",
+            "LimitError1": "Limit reached",
+            "LimitError2": "You can only add up to 10 media files.",
+            "PermissionError": "Gallery access permission required"
+          },
+          "AddContactsModal": {
+            "Top": "New Contact",
+            "Step1": "1. Media",
+            "Step2": "2. Details",
+            "BackButton": "Back",
+            "GradientButton1": "Next",
+            "GradientButton2": "Save",
+            "TitleRender1": "New Contact",
+            "SubtitleRender1": "Add photos or videos!",
+            "UploadButton1Render1": "Upload photo or video",
+            "UploadButton2Render1": "Maximum 10 media files reached",
+            "TitleRender2": "New Contact",
+            "SubtitleRender2": "Tell us about your contact",
+            "Text1Render2": "Description",
+            "DescriptionPlaceHolderRender2": "Enter a description",
+            "Text2Render2": "Preferred contact method:",
+            "CheckBox1Render2": "Phone",
+            "CheckBox2Render2": "Email",
+            "ValorationSubtitle": "Rating",
+            "ContactErrorMessages": "Contact details are required",
+            "DescriptionErrorMessages": "Please describe this contact",
+            "CategoryErrorMessages": "Please select a category",
+            "RatingErrorMessages": "Please rate this contact",
+            "LimitError1": "Upload limit reached",
+            "LimitError2": "You can add up to 10 media files per contact",
+            "PermissionError": "Gallery access permission required"
+          },
+          "AddTrickModal": {
+            "Top": "New Trick",
+            "Step1": "1. Media",
+            "Step2": "2. Details",
+            "BackButton": "Back",
+            "GradientButton1": "Next",
+            "GradientButton2": "Save",
+            "TitleRender1": "New Trick",
+            "SubtitleRender1": "Add photos or videos!",
+            "UploadButton1Render1": "Upload photo or video",
+            "UploadButton2Render1": "Maximum 10 media files reached",
+            "TitleRender2": "New Trick",
+            "SubtitleRender2": "Tell us about your trick",
+            "Text1Render2": "Title",
+            "TitlePlaceHolderRender2": "Enter a title",
+            "Text2Render2": "Description",
+            "DescriptionPlaceHolderRender2": "Enter a description",
+            "TitleErrorMessages": "Title is required",
+            "DescriptionErrorMessages": "Description is required",
+            "CategoryErrorMessages": "Category is required",
+            "LimitError1": "Limit reached",
+            "LimitError2": "You can only add up to 10 media files.",
+            "PermissionError": "Gallery access permission required"
+          }
+        },
+        "AdviceBlock": {
+          "Available": "{{variable1}} tips available"
+        },
+        "AdviceDetail": {
+          "Following": "Following",
+          "Follow": "Follow",
+          "LikesMessage": "{{variable1}} people liked this tip"
+        },
+        "ContactsBlock": {
+          "Available": "{{variable1}} contacts available"
+        },
+        "ContactsDetail": {
+          "Following": "Following",
+          "Follow": "Follow",
+          "LikesMessage": "{{variable1}} people liked this contact",
+          "PreferContact": "Prefers to be contacted by:",
+          "Option1": "Email",
+          "Option2": "Phone",
+          "Rate": "Rate Me",
+          "NoItemsTexts": "abcde",
+          "KnowMore": "abcde"
+        },
+        "FilterModal": {
+          "Title": "Choose what to search for",
+          "Tricks": "Tricks",
+          "Advice": "Tips",
+          "Contacts": "Contacts"
+        },
+        "NotificacionUser": {
+          "AcceptUserTouchable": "Accept",
+          "RejectUserTouchable": "Decline",
+          "FollowTouchable": "Follow",
+          "FollowingTouchable": "Following"
+        },
+        "TrickBlock": {
+          "Available": "{{variable1}} tricks available"
+        },
+        "TrickDetail": {
+          "Following": "Following",
+          "Follow": "Follow",
+          "LikesMessage": "{{variable1}} people liked this trick"
+        },
+        "UtilsCard": {
+          "TricksTitle": "Tricks",
+          "AdviceTitle": "Tips",
+          "ContactsTitle": "Contacts",
+          "TricksAviable": "Tricks available",
+          "AdviceAviable": "Tips available",
+          "ContactsAviable": "Contacts available",
+          "PostsTitle": "Posts",
+          "PostsAviable": "Posts published"
+        }
+      },
+      "Experiences": {
+        "Experiences": {
+          "FriendsShare": " have shared this collection"
+        },
+        "List": {
+          "Title": "Places",
+          "DeletePhotoConfirmation": "Photo succesfully deleted",
+          "SavePhotoConfirmation": "Photo successfully saved",
+          "DeleteListConfirmation": "Collection successfully deleted",
+          "SaveListConfirmation": "Collection succesfully saved",
+          "AccessGalleryPermissionError": "Media library access required",
+          "ColaboratorsInvitation": "abcde",
+          "ColaboratorsInvitationAcept": "abcde",
+          "ColaboratorsInvitationReject": "abcde",
+          "GradientButton": "abcde",
+          "GradientButton2": "abcde",
+          "CancelButton": "abcde"
+        },
+        "ListElement": {
+          "Blocked": "Blocked",
+          "Option": "Delete this collection",
+          "DeletePlaceConfirmation": "Location deleted succesfully"
+        }
+      },
+      "Menu": {
+        "MenuTouchable1": "Map",
+        "MenuTouchable2": "Wallet",
+        "MenuTouchable3": "Community",
+        "MenuTouchable4": "Profile"
+      },
+      "Posts": {
+        "PostPlaceHolder": "Write your post here",
+        "PublishText": "Share as",
+        "Post": "Post",
+        "UploadedPostConfirmation": "Your post is now live",
+        "PermissionError": "Gallery access permission required"
+      },
+      "Tarjeta": {
+        "QuestionText": "Why did you join Kylot?",
+        "AnswerText": "To help others discover amazing places and experiences"
+      },
+      "BankExtract": {
+        "SendTitle": "abcde",
+        "SendSubtitle": "abcde",
+        "GetTitle": "abcde",
+        "GetSubtitle": "abcde",
+        "createPlaceBasicTitle": "abcde",
+        "createPlaceBasicSubtitle": "abcde",
+        "createMomentTitle": "abcde",
+        "createMomentSubtitle": "abcde",
+        "createPublicListTitle": "abcde",
+        "createPublicListSubtitle": "abcde",
+        "createExperienceTitle": "abcde",
+        "createExperienceSubtitle": "abcde",
+        "createPostExperienceTitle": "abcde",
+        "createPostExperienceSubtitle": "abcde",
+        "createPartTitle": "abcde",
+        "createPartSubtitle": "abcde",
+        "AddPlacePhotoTitle": "abcde",
+        "AddPlacePhotoSubtitle": "abcde",
+        "answerQuestionTitle": "abcde",
+        "answerQuestionSubtitle": "abcde",
+        "topRankingTitle": "abcde",
+        "topRankingSubtitle": "abcde",
+        "buzonTitle": "abcde",
+        "buzonSubtitle": "abcde",
+        "createItemCommunityTitle": "abcde",
+        "createItemCommunitySubtitle": "abcde",
+        "createActivityTitle": "abcde",
+        "createActivitySubtitle": "abcde",
+        "joinActivityTitle": "abcde",
+        "joinActivitySubtitle": "abcde",
+        "createGroupTitle": "abcde",
+        "createGroupSubtitle": "abcde",
+        "copyAlbumTitle": "abcde",
+        "copyAlbumSubtitle": "abcde",
+        "createAlbumTitle": "abcde",
+        "createAlbumSubtitle": "abcde",
+        "invitacionAmigoTitle": "abcde",
+        "invitacionAmigoSubtitle": "abcde",
+        "unblockCityTitle": "abcde",
+        "unblockCitySubtitle": "abcde",
+        "unblockPlaceTitle": "abcde",
+        "unblockPlaceSubtitle": "abcde",
+        "answerOtherTitle": "abcde",
+        "answerOtherSubtitle": "abcde",
+        "ruletaTitle": "abcde",
+        "ruletaSubtitle": "abcde",
+        "diarioTitle": "abcde",
+        "diarioSubtitle": "abcde",
+        "defaultTitle": "abcde",
+        "defaultSubtitle": "abcde"
+      }
+    },
+    "MarketPlace": {
+      "Top": "MarketPlace",
+      "SubText": "+88 people have already shared their stories here.",
+      "Menu1": "Social",
+      "Menu2": "Products",
+      "Menu3": "Benefits",
+      "Menu4": "Compensation Chamber",
+      "SocialTitle": "Social",
+      "SocialSubtitle": "Connect with other users and discover shared experiences",
+      "MarketplaceTitle": "Products",
+      "MarketplaceSubtitle": "Discover amazing products recommended by the community",
+      "BenefitsTitle": "Benefits",
+      "BenefitsSubtitle": "Access exclusive offers and special rewards",
+      "CompensationTitle": "Compensation Chamber",
+      "CompensationSubtitle": "Balance the value you give and receive on the platform",
+      "CompensationInfoTitle": "Compensation Chamber",
+      "CompensationInfoText": "Manage all transactions between users in the app. Here the value you contribute to the community is balanced with the value you receive.",
+      "CompensationSection1": "Value Contributed",
+      "CompensationSection1Sub": "Your contribution to the community",
+      "CompensationSection2": "Value Received",
+      "CompensationSection2Sub": "Benefits obtained from the platform",
+      "CompensationSection3": "Transaction Balance",
+      "CompensationSection3Sub": "Balance between giving and receiving",
+      "Title1": "Popular products",
+      "Title2": "Recommended by friends",
+      "Title3": "Trending now",
+      "Title4": "Products by category",
+      "Title5": "Brands you follow",
+      "Title6": "Your favorites",
+      "BenefitTitle1": "Benefits of the week",
+      "BenefitTitle2": "Used by friends",
+      "BenefitTitle3": "Featured benefits",
+      "BenefitTitle4": "Benefits by level",
+      "BenefitTitle5": "Company benefits",
+      "BenefitTitle6": "Most used",
+      "SearcherPlaceHolder": "Search products...",
+      "BenefitsBanner": {
+        "BenefitText": "KYLOT BENEFIT",
+        "Title": "Discover exclusive benefits",
+        "Subtitle": "Access special offers and unique experiences"
+      },
+      "MarketplaceBanner": {
+        "BenefitText": "KYLOT MARKETPLACE",
+        "Title": "Discover amazing products",
+        "Subtitle": "Explore special offers and recommended products"
+      },
+      "Filters": {
+        "All": "All",
+        "Promociones": "Promotions",
+        "Snacks": "Snacks",
+        "Saludable": "Healthy",
+        "Mediterránea": "Mediterranean",
+        "Asiática": "Asian"
+      }
+    },
+    "Login": {
+      "Registro": {
+        "DatePicker": {
+          "January": "JAN",
+          "February": "FEB",
+          "March": "MAR",
+          "April": "APR",
+          "May": "MAY",
+          "June": "JUN",
+          "July": "JUL",
+          "August": "AUG",
+          "September": "SEP",
+          "October": "OCT",
+          "November": "NOV",
+          "December": "DEC"
+        },
+        "GernderPicker": {
+          "Male": "MALE",
+          "Female": "FEMALE",
+          "Other": "OTHER"
+        }
+      },
+      "LoginForm": {
+        "SignInTouchable": "Sign In",
+        "ForgottenPasswordTouchable": "Forgot your password?",
+        "ForgottenPasswordTouchable2": "",
+        "FieldsErrorMessages": "Fill in all fields"
+      },
+      "LogInInputs": {
+        "TlfInput": "Phone Number",
+        "PasswordInput": "Password"
+      }
+    },
+    "Maps": {
+      "AddInfo": {
+        "Title": "General Information",
+        "Subtitle": "Tell us a about your experience. This helps us connect you with similar experiences and like-minded members.",
+        "LocationNamePlaceHolder": "What's this place called?",
+        "CategoryPlaceHolder": "Category",
+        "BestExperiencePlaceHolder": "What made this place special?",
+        "FriendPlaceHolder": "Who did you explore with?",
+        "RecomendationPlaceHolder": "Any tips for other members?",
+        "CommentsPlaceHolder": "Additional comments"
+      },
+      "CityBlock": {
+        "DiscoverLocationSlider": "DISCOVER",
+        "Top": "Kylot Map",
+        "Title": "BLOCKED",
+        "Subtititle1": " unlocking this location means ",
+        "Subtititle2": " Kylets.",
+        "UnBlockVerticalSlider": "UNLOCK",
+        "Title2": "CONGRATULATIONS",
+        "Subtitle2": "You can now enjoy all the secrets, locations, and corners of {props.city}",
+        "UnBlockVerticalSlider2": "UNLOCK",
+        "Subtititle": "abcde"
+      },
+      "ErrorModal": {
+        "Title": "Location denied",
+        "Button": "Try again",
+        "Err1": "Location already exists",
+        "Err21": "The 'Best experience' field does not contain enough information",
+        "Err22": "The 'Recommendation' field does not contain enough information",
+        "Err23": "The 'Comments' field does not contain enough information",
+        "Err3": "Location does not exist",
+        "Err4": "Location is not properly located",
+        "Default": "Unknown reason"
+      },
+      "MapContainer": {
+        "PermissionError": "Permission needed to access location",
+        "SearcherPlaceHolder": "Search city...",
+        "Searching": "Searching..."
+      },
+      "PlaceBlock": {
+        "Top": "Kylot Map",
+        "Title": "BLOCKED",
+        "Subtitle1": " unlocking this location means ",
+        "Subtitle2": " Kylets.",
+        "Title2": "CONGRATULATIONS",
+        "Subtitle3": "You can now enjoy all the secrets, locations and corners of",
+        "UnBlockVerticalSlider": "UNLOCK PLACE",
+        "DiscoverVerticalSlider": "DISCOVER",
+        "Subtitle": "abcde"
+      },
+      "PlaceInfo": {
+        "Top": "Kylot Map",
+        "OptionPicker": "Choose an option",
+        "FriendsText": " friends have been in this location",
+        "Title": "Information",
+        "Creator": "Creator",
+        "ExperienceTitle": "My best experience",
+        "RecomendationTitle": "My recommendation",
+        "ValorationText": "My rating",
+        "Menu1": "Photos",
+        "Menu2": "Secret",
+        "Menu3": "Secret",
+        "EmptyPhotos": "This location does not currently have photos, visit it and collaborate by uploading one.",
+        "PhotoConfirmation": "PhotoSavedSuccesfully",
+        "KyletsTitle": "You've earned {{variable1}} kylets.",
+        "KyletsSubtitle": "Your Kylot activity is paying off. You're already engaging with the community.",
+        "KyletsButton": "Keep earning",
+        "VoteConfirmate": "Your vote has been cast",
+        "Pending": "Revision",
+        "SaveConfirmation": "abcde",
+        "GradientButton": "abcde",
+        "GradientButton2": "abcde",
+        "GradientButton3": "abcde",
+        "CancelButton": "abcde"
+      },
+      "SocialInfo": {
+        "AumontText": "abcde",
+        "TitleTopCreators": "abcde",
+        "TitleCategory": "abcde",
+        "TitleMyPhotos": "abcde",
+        "TitleCommunityPhotos": "abcde",
+        "TitleReviews": "abcde",
+        "NameSectionTopCreators": "abcde",
+        "NameSectionCategory": "abcde",
+        "NameSectionMyPhotos": "abcde",
+        "NameSectionCommunityPhotos": "abcde",
+        "NameSectionReviews": "abcde"
+      }
+    },
+    "metricas": {
+      "MetricCard": {
+        "LastDay": "Yesterday",
+        "LastWeek": "7 days ago",
+        "LastMonth": "last month",
+        "Last3Month": "3 months ago",
+        "Last6Month": "6 months ago",
+        "LastYear": "1 year ago",
+        "NotAvaliable": "date not avaliable"
+      },
+      "PeriodSelector": {
+        "PeriodTouchable": "Select Period",
+        "LastDay": "Yesterday",
+        "LastWeek": "7 days ago",
+        "LastMonth": "last month",
+        "Last3Month": "3 months ago",
+        "Last6Month": "6 months ago",
+        "LastYear": "1 year ago",
+        "NotAvaliable": "date not avaliable"
+      }
+    },
+    "Preguntas": {
+      "ActionButtons": {
+        "LikeTouchable": "Like",
+        "SaveTouchable": "Unlocked"
+      },
+      "AnswerCard": {
+        "Title": "Answer",
+        "WriterSubtitle": "Written by "
+      },
+      "QuestionCard": {
+        "ViewResponseTouchable": "View answer"
+      }
+    },
+    "user": {
+      "AddHistoria": {
+        "CameraText": "Camera",
+        "GalleryText": "Gallery",
+        "GalleryPermissionError": "Gallery access permission required",
+        "CameraPermissionError": "Camera access permission required"
+      },
+      "NewQuestionModal": {
+        "Title": "You have a new question",
+        "Subtitle": "Answer now so the community can get to know you better",
+        "Button": "Answer"
+      },
+      "NotificacionesPerfil": {
+        "FollowersTitle": "👀 Someone's got their eye on you!",
+        "FollowersSubtitle": "@{{variable1}} started following you. Check out their profile or follow them back? 🔥",
+        "KyletsTitle": "💰 Ka-ching! You earned {{variable1}} Kylets",
+        "KyletsSubtitle": "Your Kylot activity is paying off nicely. Ready to earn even more? 💸",
+        "PostsTitle": "🗣 @{{variable1}} is making waves in the community!",
+        "PostsSubtitle": "They posted something new in {{variable1}}... Will it be a game-changer or the meme of the century? Find out now.",
+        "VisualizationsTitle": "@{{variable1}} viewed your profile",
+        "VisualizationsSubtitle": "Looks like you're catching some attention",
+        "ListTitle": "📝 @{{variable1}} created a new list!",
+        "ListSubtitle": "Curiosity killed the cat, but you're not a cat... Dare to check out the list?",
+        "WelcomeTitle": "🚀 Welcome to Kylot!",
+        "WelcomeSubtitle": "Kyler @{{variable1}}, welcome aboard! Buckle up... Your adventure starts now!",
+        "CommonTitle": "🤝 Whoa! You and @{{variable1}} have {{variable2}} mutual friends!",
+        "CommonSubtitle": "Coincidence or destiny? There's only one way to find out... Connect!",
+        "LocationTitle": "📍 You've marked your territory!",
+        "LocationSubtitle": "Location verified in {{variable1}}.",
+        "CreationTitle": "🌍 New spot on the map!",
+        "CreationSubtitle": "@{{variable1}} created a new location on Kylot. Hidden gem or the next hot spot?",
+        "SavedTitle": "🔄 Your {{variable1}} list is trending!",
+        "SavedSubtitle": "Everyone wants to see it now",
+        "RoulleteTitle": "🎡 The roulette is on fire!",
+        "RoulleteSubtitle": "Give it a spin and let luck work its magic... Points are waiting for you!",
+        "ReminderTitle": "⏳ SOS! You've been MIA from Kylot forever.",
+        "ReminderSubtitle": "You're missing out on all the good stuff!",
+        "ExperienceTitle": "Someone created a new experience",
+        "ExperienceSubtitle": "You're missing out on all the good stuff!",
+        "MomentsTitle": "@{{variable1}} shared a moment today",
+        "MomentsSubTitle": "Find them on the map to see what they're up to",
+        "GroupTitle": "@{{variable1}} invited you to join {{variable2}}",
+        "GroupSubTitle": "Join now so you don't miss out",
+        "AlbumTitle": "@{{variable1}} copied your {{variable2}} album",
+        "AlbumSubTitle": "You're inspiring users to reach their best version",
+        "ActivityTitle": "{{variable1}} is now available",
+        "ActivitySubTitle": "@{{variable2}} invited you to their new activity",
+        "RouteTitle": "@{{variable1}} accepted you to view their routes",
+        "RouteSubTitle": "Customize how you want to appear on the map",
+        "Default": "Unknown error",
+        "colaboratorExperienceTitle": "abcde",
+        "colaboratorExperienceSubTitle": "abcde",
+        "colaboratorListTitle": "abcde",
+        "colaboratorListSubTitle": "abcde",
+        "colaboratorAlbumTitle": "abcde",
+        "colaboratorAlbumSubTitle": "abcde",
+        "likeMomentTitle": "abcde",
+        "likeMomentSubTitle": "abcde",
+        "topRankingTitle": "abcde",
+        "topRankingSubTitle": "abcde",
+        "joinActivityTitle": "abcde",
+        "joinActivitySubTitle": "abcde",
+        "questionLikeTitle": "abcde",
+        "questionLikeSubTitle": "abcde",
+        "questionUnlockTitle": "abcde",
+        "questionUnlockSubTitle": "abcde",
+        "requestActiviyTitle": "abcde",
+        "requestActiviySubTitle": "abcde",
+        "aceptInvitationActiviyTitle": "abcde",
+        "aceptInvitationActiviySubTitle": "abcde",
+        "aceptRequestActiviyTitle": "abcde",
+        "aceptRequestActiviySubTitle": "abcde",
+        "inviteGroupActiviyTitle": "abcde",
+        "inviteGroupActiviySubTitle": "abcde",
+        "copyExperienceTitle": "abcde",
+        "copyExperienceSubTitle": "abcde",
+        "joinInvitationFriendTitle": "abcde",
+        "joinInvitationFriendSubTitle": "abcde",
+        "newAlbumTitle": "abcde",
+        "newAlbumSubTitle": "abcde"
+      },
+      "ResponseModal": {
+        "Title": "New Answer",
+        "Step": "Answer",
+        "Back": "Back",
+        "GradientButton1": "Post",
+        "GradientButton2": "Next",
+        "AnswerInput": "Your answer",
+        "AnswerPlaceHolder": "Share your thoughts"
+      },
+      "UserCard": {
+        "SendTouchable": "Send"
+      }
+    },
+    "Utils": {
+      "BlockedFuncionality": {
+        "Title": "COMING SOON",
+        "Subtitle": "This feature is almost ready. Stay tuned for something amazing!",
+        "ContinueTouchable": "GOT IT",
+        "Subtitle2": "abcde"
+      },
+      "SearcherInput": {
+        "KylotIdPlaceHolder": "Enter KylotId"
+      },
+      "SitiosParecidos": {
+        "FriendText": "Friend"
+      },
+      "Stories": {
+        "UploadedPostConfirmation": "Story uploaded successfully",
+        "PermissionError": "Permission required to access gallery"
+      },
+      "CategoryInput": {
+        "Title": "Category",
+        "PlaceHolder": "Category"
+      },
+      "FloatingGalleryMenu": {
+        "PermissionError1": "abcde",
+        "PermissionError2": "abcde"
+      },
+      "ModalRoute": {
+        "Top": "abcde",
+        "Title": "abcde",
+        "Subtitle": "abcde"
+      },
+      "ProgressUbi": {
+        "Title": "abcde",
+        "DiscoveryTitle": "abcde",
+        "DiscoverySubtitle": "abcde",
+        "Progress": "abcde",
+        "Percentage": "abcde"
+      },
+      "RouteUser": {
+        "Color": "abcde",
+        "OpenButton": "abcde",
+        "Stroke": "abcde",
+        "Discontinuous": "abcde",
+        "Title": "abcde",
+        "CloseButton": "abcde",
+        "GradientButton": "abcde",
+        "ConfirmationMensaje": "abcde"
+      },
+      "SearcherInputMultiple": {
+        "PlaceHolder": "abcde"
+      },
+      "TutorialCard": {
+        "Title1": "abcde",
+        "Title2": "abcde",
+        "PreviousButton": "abcde",
+        "NextButton": "abcde"
+      }
+    },
+    "Wallet": {
+      "AddAlbumModal": {
+        "Top": "New album",
+        "Title": "Albums",
+        "Subtititle": "Create albums and explore those of your friends",
+        "NameTitle": "Album name",
+        "NamePlaceHolder": "E.g. University memories",
+        "DescriptionTitle": "Description",
+        "DescriptionPlaceHolder": "Write a brief description...",
+        "Public": "Is it public?",
+        "Back": "Back",
+        "GradientButton1": "Publish",
+        "InfoModalTitle": "Make your album public!",
+        "InfoModalSubtitle": "By making it public, the entire community will be able to see and use your album",
+        "InfoModalButton": "CONTINUE",
+        "CreateConfirmation": "Created successfully",
+        "CreateError": "Please complete the album name and description."
+      },
+      "AddMilestones": {
+        "Title": "Add memory",
+        "Subtitle": "Create a memory for your album",
+        "NameTitle": "Memory name",
+        "NamePlaceHolder": "E.g. University memories",
+        "GradientButton": "Save",
+        "CreateConfirmation": "Created successfully",
+        "CreateError": "Fill in the name"
+      },
+      "AlbumCard": {
+        "Navigate": "View all"
+      },
+      "PhotoAlbum": {
+        "Add": "Add"
+      },
+      "Experiences": {
+        "Modals": {
+          "AddContactoModal": {
+            "Top": "New Contact",
+            "Step1": "1. Media",
+            "Step2": "2. Details",
+            "BackButton": "Back",
+            "GradientButton1": "Next",
+            "GradientButton2": "Save",
+            "TitleRender1": "New Contact",
+            "SubtitleRender1": "Add photos or videos!",
+            "UploadButton1Render1": "Upload photo or video",
+            "UploadButton2Render1": "Maximum 10 media files reached",
+            "TitleRender2": "New Contact",
+            "SubtitleRender2": "Tell us about your contact",
+            "Text1Render2": "Description",
+            "DescriptionPlaceHolderRender2": "Enter a description",
+            "Text2Render2": "Preferred contact method:",
+            "CheckBox1Render2": "Phone",
+            "CheckBox2Render2": "Email",
+            "ContactErrorMessages": "Contact info is required",
+            "DescriptionErrorMessages": "Please add a description",
+            "CategoryErrorMessages": "Please select a category",
+            "RatingErrorMessages": "Please, provide a rating",
+            "LimitError1": "Limit reached",
+            "LimitError2": "You can only add up to 10 media files.",
+            "PermissionError": "Gallery access permission required"
+          },
+          "AddExperienceModal": {
+            "Top": "New experience",
+            "Step1": "1. Image",
+            "Step2": "2. Location",
+            "Step3": "3.Details",
+            "Back": "Back",
+            "GradientButton1": "Share",
+            "GradientButton2": "Next",
+            "Title": "Add an image to your experience",
+            "Subtitle": "Upload or select an image for your experience",
+            "Title2": "Experience Location",
+            "Subtitle2": "Tell us where your experience takes place",
+            "Title3": "Experience Details",
+            "Subtitle3": "Tell us more about your experience",
+            "CityInput": "Search city",
+            "CityPlaceHolder": "e.g., Seville",
+            "CountrieInput": "Search country",
+            "CountriePlaceHolder": "e.g., Spain",
+            "TitleInput": "Title",
+            "TitlePlaceHolder": "e.g., Visit to Petronas Towers",
+            "DescriptionInput": "Description",
+            "DescriptionPlaceHolder": "Describe your experience...",
+            "DateInput": "Date",
+            "DatePlaceHolder": "YYYY-MM-DD",
+            "HourInput": "Time",
+            "HourPlaceHolder": "HH:MM",
+            "FieldsErrorMessages": "Please, complete all fields",
+            "TitleErrorMessages": "Please, enter a title",
+            "DescriptionErrorMessages": "Please, enter a description",
+            "PermissionError": "Media library access permission required",
+            "CountryErrorMessages": "Please, enter a country"
+          },
+          "AddPartModal": {
+            "Top": "New Itinerary",
+            "Step1": "1. Details",
+            "Back": "Back",
+            "GradientButton1": "Post",
+            "GradientButton2": "Next",
+            "Title": "Activity details",
+            "Subtitle": "Tell us more about your part of the day",
+            "TitleInput": "Name",
+            "TitlePlaceHolder": "E.g.: visit to the Petronas Towers",
+            "HourInput": "Time",
+            "HourPlaceHolder": "HH:MM",
+            "LocationInput": "Location",
+            "LocationPlaceHolder": "La Calahorra",
+            "GroupInput": "Group",
+            "GroupPlaceHolder": "A-12",
+            "PlaceInput": "City",
+            "PlacePlaceHolder": "Córdoba",
+            "FieldsErrorMessages": "Please, fill in all fields",
+            "NameErrorMessages": "Please, enter a name",
+            "LocationErrorMessages": "Please, enter a location",
+            "PlaceErrorMessages": "Please, enter a place",
+            "GroupErrorMessages": "Please, enter a group",
+            "TimeErrorMessages": "Please, enter a time",
+            "Step2": "abcde",
+            "Title2": "abcde",
+            "Subtitle2": "abcde"
+          },
+          "AddPostModal": {
+            "Top": "New Post",
+            "Step1": "1. Image",
+            "Step2": "2. Location",
+            "Step3": "3. Details",
+            "Back": "Back",
+            "GradientButton1": "Publish",
+            "GradientButton2": "Next",
+            "Title": "Add an image to your post",
+            "Subtitle": "Upload or select an image for your post",
+            "CityInput": "Search city",
+            "CityPlaceHolder": "e.g., Seville",
+            "CountrieInput": "Search country",
+            "CountriePlaceHolder": "e.g., Spain",
+            "Title2": "Post Details",
+            "Subtitle2": "Tell us more about your post",
+            "TitleInput": "Title",
+            "TitlePlaceHolder": "e.g., Visit to Petronas Towers",
+            "DateInput": "Date",
+            "DatePlaceHolder": "YYYY-MM-DD",
+            "LocationInput": "Location",
+            "LocationPlaceHolder": "La Calahorra",
+            "DescriptionInput": "Description",
+            "DescriptionPlaceHolder": "Turismo",
+            "RecomendationInput": "Recommendation",
+            "RecomendationPlaceHolder": "Share your recommendation...",
+            "ValorationInput": "Rating",
+            "FriendsInput": "Friends",
+            "FriendsPlaceHolder": "With friends, family...",
+            "FieldsErrorMessages": "Please, complete all fields",
+            "TitleErrorMessages": "Please, enter a title",
+            "LocationErrorMessages": "Please, enter a location",
+            "DescriptionErrorMessages": "Please, enter a description",
+            "RecomendationErrorMessages": "Please, enter a recommendation",
+            "PermissionError": "Media library access permission required",
+            "CountryErrorMessages": "Please, enter a country"
+          },
+          "AddStepsModal": {
+            "Top": "New Step",
+            "Step1": "1. Image",
+            "Step2": "2. Details",
+            "Back": "Back",
+            "GradientButton1": "Posts",
+            "GradientButton2": "Next",
+            "Title": "Add an image to the step",
+            "Subtitle": "Upload or select an image for the step",
+            "Title2": "Step details",
+            "Subtitle2": "Tell us more about the step",
+            "StepInput": "Step",
+            "StepPlaceHolder": "E.g: Go to the south entrance of the Alhambra",
+            "LocationInput": "Location",
+            "LocationPlaceHolder": "Alhambra Forest Park",
+            "DurationInput": "Duration",
+            "DurationPlaceHolder": "HH:MM",
+            "FieldsErrorMessages": "Please, fill in all fields",
+            "TitleErrorMessages": "Please, enter the step",
+            "LocationErrorMessages": "Please, enter a location",
+            "DurationErrorMessages": "Please, enter a duration",
+            "PermissionError": "Permission to access media library is required!",
+            "DescriptionErrorMessages": "Please, enter a description",
+            "DescriptionInput": "abcde",
+            "DescriptionPlaceHolder": "abcde"
+          },
+          "AddVisitModal": {
+            "Top": "New visit",
+            "Step1": "1. Image",
+            "Step2": "2. Location",
+            "Step3": "3.Details",
+            "Back": "Back",
+            "GradientButton1": "Post",
+            "GradientButton2": "Next",
+            "Title": "Add an image to your visit",
+            "Subtitle": "Upload or select an image for the visit",
+            "CityInput": "Search city",
+            "CityPlaceHolder": "e.g., Seville",
+            "CountrieInput": "Search country",
+            "CountriePlaceHolder": "e.g., Spain",
+            "Title2": "Visit details",
+            "Subtitle2": "Tell us more about the visit",
+            "TitleInput": "Title",
+            "TitlePlaceHolder": "E.g.: Visit to Petronas Towers",
+            "DateInput": "Date",
+            "DatePlaceHolder": "YYYY-MM-DD",
+            "TagInput1": "1st Tag",
+            "TagPlaceHolder1": "Tourism",
+            "TagInput2": "2nd Tag",
+            "TagPlaceHolder2": "Tourism",
+            "FieldsErrorMessages": "Please, fill in all fields",
+            "TitleErrorMessages": "Please, enter the step",
+            "TagErrorMessages1": "Please, enter a location",
+            "TagErrorMessages2": "Please, enter a duration",
+            "PermissionError": "Permission to access media library is required!",
+            "CountryErrorMessages": "Please, enter a country"
+          },
+          "Comments": {
+            "Title": "Comments",
+            "CommentsPlaceHolder": "Write a comment..."
+          },
+          "OpcionsModal": {
+            "Title": "Select an option",
+            "Edit": "Edit",
+            "AddStep": "Add step",
+            "Delete": "Delete",
+            "Cancel": "Cancel",
+            "ColaboratorsButton": "abcde"
+          },
+          "AddDayModal": {
+            "Title": "abcde",
+            "NextDayButton": "abcde",
+            "DayPlaceHolder": "abcde",
+            "SaveButton": "abcde",
+            "Cancel": "abcde",
+            "FormatError": "abcde"
+          }
+        },
+        "DayCard": {
+          "January": "January",
+          "February": "February",
+          "March": "March",
+          "April": "April",
+          "May": "May",
+          "June": "June",
+          "July": "July",
+          "August": "August",
+          "September": "September",
+          "October": "October",
+          "November": "November",
+          "December": "December",
+          "Title1": "Day",
+          "Title2": "off"
+        },
+        "ExperienceCard": {
+          "January": "January",
+          "February": "February",
+          "March": "March",
+          "April": "April",
+          "May": "May",
+          "June": "June",
+          "July": "July",
+          "August": "August",
+          "September": "September",
+          "October": "October",
+          "November": "November",
+          "December": "December",
+          "Of": "of",
+          "Button": "See more"
+        },
+        "PartCard": {
+          "Step": "STEP BY STEP",
+          "Contacts": "CONTACTS",
+          "AndMore": "and more people have done this activity",
+          "Notes": "abcde"
+        },
+        "PostCard": {
+          "January1": "Jan",
+          "February1": "Feb",
+          "March1": "Mar",
+          "April1": "Apr",
+          "May1": "May",
+          "June1": "Jun",
+          "July1": "Jul",
+          "August1": "Aug",
+          "September1": "Sep",
+          "October1": "Oct",
+          "November1": "Nov",
+          "December1": "Dec",
+          "January2": "January",
+          "February2": "February",
+          "March2": "March",
+          "April2": "April",
+          "May2": "May",
+          "June2": "June",
+          "July2": "July",
+          "August2": "August",
+          "September2": "September",
+          "October2": "October",
+          "November2": "November",
+          "December2": "December",
+          "Of": "of",
+          "Title1": "DESCRIPTION",
+          "Title2": "RECOMMENDATION",
+          "AndMore": "and more people..."
+        },
+        "VisitCard": {
+          "January": "Jan",
+          "February": "Feb",
+          "March": "Mar",
+          "April": "Apr",
+          "May": "May",
+          "June": "Jun",
+          "July": "Jul",
+          "August": "Aug",
+          "September": "Sep",
+          "October": "Oct",
+          "November": "Nov",
+          "December": "Dec",
+          "Actual": "CURRENT",
+          "Day": "day",
+          "Days": "days"
+        }
+      },
+      "Album": {
+        "AddAlbumModal": {
+          "Top": "abcde",
+          "Title": "abcde",
+          "Subtititle": "abcde",
+          "NameTitle": "abcde",
+          "NamePlaceHolder": "abcde",
+          "DescriptionTitle": "abcde",
+          "DescriptionPlaceHolder": "abcde",
+          "Public": "abcde",
+          "Back": "abcde",
+          "GradientButton1": "abcde",
+          "InfoModalTitle": "abcde",
+          "InfoModalSubtitle": "abcde",
+          "InfoModalButton": "abcde",
+          "CreateConfirmation": "abcde",
+          "CreateError": "abcde"
+        },
+        "AddMilestones": {
+          "Title": "abcde",
+          "Subtitle": "abcde",
+          "NameTitle": "abcde",
+          "NamePlaceHolder": "abcde",
+          "GradientButton": "abcde",
+          "CreateConfirmation": "abcde",
+          "SaveConfirmation": "abcde",
+          "CreateError": "abcde"
+        },
+        "AlbumCard": {
+          "Navigate": "abcde"
+        },
+        "EditMilestoneModal": {
+          "Title": "abcde",
+          "EditButton": "abcde",
+          "EditPhotoButton": "abcde",
+          "DeletePhotoButton": "abcde",
+          "DeleteButton": "abcde",
+          "CancelButton": "abcde"
+        },
+        "PhotoAlbum": {
+          "Add": "abcde"
+        }
+      }
+    }
+  },
+  "services": {
+    "bankServices": {
+      "400": "Server error",
+      "401": "Data error",
+      "402": "User doesn't exist",
+      "403": "You can't perform this action on yourself",
+      "404": "Insufficient balance",
+      "410": "Access denied",
+      "411": "Invalid Acces",
+      "412": "Session expired",
+      "Default": "Unknown"
+    },
+    "buzonServices": {
+      "400": "Server error",
+      "401": "Data error",
+      "410": "Access denied",
+      "411": "Invalid Acces",
+      "412": "Session expired",
+      "Default": "Unknown error"
+    },
+    "communityServices": {
+      "400": "Server error",
+      "401": "Data error",
+      "402": "User does not exist",
+      "403": "Invalid country",
+      "404": "Invalid category",
+      "405": "Item not found",
+      "406": "City does not belong to country",
+      "410": "Unauthorized",
+      "411": "Invalid authorization",
+      "412": "Authorization expired",
+      "Default": "Unknown error"
+    },
+    "experienceServices": {
+      "400": "Server error",
+      "401": "Invalid data",
+      "402": "You're not the owner of this experience",
+      "403": "User not found",
+      "404": "Location not found",
+      "405": "Invalid item",
+      "406": "Item not found",
+      "407": "You've already liked this",
+      "408": "You haven't liked this yet",
+      "410": "Unauthorized",
+      "411": "Invalid authorization",
+      "412": "Authorization expired",
+      "Default": "Unknown error"
+    },
+    "kyletsServices": {
+      "400": "Server error",
+      "401": "Invalid data",
+      "410": "Unauthorized",
+      "411": "Invalid authorization",
+      "412": "Authorization expired",
+      "Default": "Unknown error"
+    },
+    "logServices": {
+      "400": "Server error",
+      "401": "Invalid data",
+      "402": "Incorrect password",
+      "403": "User not found",
+      "404": "User already exists",
+      "405": "Incorrect code",
+      "406": "Not authorized to update password",
+      "407": "Invalid phone number or country code format",
+      "408": "Invalid date format",
+      "409": "Age requirement not met",
+      "410": "Unauthorized",
+      "411": "Invalid authorization",
+      "412": "Authorization expired",
+      "Default": "Unknown error"
+    },
+    "mapsServices": {
+      "400": "Server error",
+      "401": "Invalid data",
+      "402": "You haven't participated with the community today",
+      "403": "Not found",
+      "404": "Already unlocked",
+      "405": "Not enough Kylets",
+      "410": "Unauthorized",
+      "411": "Invalid authorization",
+      "412": "Authorization expired",
+      "Default": "Unknown error"
+    },
+    "metricsServices": {
+      "400": "Server error",
+      "401": "Data error",
+      "410": "Access denied",
+      "411": "Invalid Acces",
+      "412": "Session expired",
+      "Default": "Unknown error"
+    },
+    "notificationServices": {
+      "400": "Server error",
+      "401": "Data error",
+      "410": "Access denied",
+      "411": "Invalid Acces",
+      "412": "Session expired",
+      "Default": "Unknown error"
+    },
+    "profileServices": {
+      "400": "Server error",
+      "401": "Data error",
+      "402": "User already exists",
+      "403": "KylotId already exists",
+      "404": "Email already exits",
+      "405": "Incorrect password",
+      "406": "Yo can't perform this action on yourself",
+      "407": "Invalid WhatsApp's link",
+      "408": "Invalid TikTok's link",
+      "409": "Invalid Instagram's link",
+      "410": "Access denied",
+      "411": "Invalid Acces",
+      "412": "Session expired",
+      "Default": "Unknown error"
+    },
+    "questionsServices": {
+      "400": "Server error",
+      "401": "Data error",
+      "402": "No question available today",
+      "403": "You've already answered today's question",
+      "404": "You haven't participated with the community today",
+      "405": "Question not found",
+      "406": "Already unlocked",
+      "407": "Not enough Kylets",
+      "408": "You've already liked this question",
+      "409": "You haven't liked this question yet",
+      "410": "Unauthorized",
+      "411": "Invalid authorization",
+      "412": "Authorization expired",
+      "Default": "Unknown error"
+    },
+    "rankingServices": {
+      "400": "Server error",
+      "401": "Data error",
+      "410": "Access denied",
+      "411": "Invalid Acces",
+      "412": "Session expired",
+      "Default": "Unknown error"
+    },
+    "roulleteServices": {
+      "400": "Server error",
+      "401": "Data error",
+      "410": "Access denied",
+      "411": "Invalid Access",
+      "412": "Session expired",
+      "Default": "Unknown error"
+    },
+    "walletServices": {
+      "400": "Server error",
+      "401": "Data error",
+      "402": "List not found",
+      "403": "User not found",
+      "404": "This list doesn't belong to you",
+      "405": "Place not found",
+      "406": "Maximum number of lists reached",
+      "407": "Place already added",
+      "410": "Unauthorized",
+      "411": "Invalid authorization",
+      "412": "Authorization expired",
+      "Default": "Unknown error"
+    },
+    "activitiesServices": {
+      "400": "abcde",
+      "401": "abcde",
+      "402": "abcde",
+      "403": "abcde",
+      "410": "abcde",
+      "411": "abcde",
+      "412": "abcde",
+      "Default": "abcde"
+    },
+    "albumServices": {
+      "400": "abcde",
+      "401": "abcde",
+      "410": "abcde",
+      "411": "abcde",
+      "412": "abcde",
+      "Default": "abcde"
+    },
+    "groupsServices": {
+      "400": "abcde",
+      "401": "abcde",
+      "410": "abcde",
+      "411": "abcde",
+      "412": "abcde",
+      "Default": "abcde"
+    },
+    "routeServices": {
+      "400": "abcde",
+      "401": "abcde",
+      "402": "abcde",
+      "403": "abcde",
+      "404": "abcde",
+      "405": "abcde",
+      "406": "abcde",
+      "410": "abcde",
+      "411": "abcde",
+      "412": "abcde",
+      "Default": "abcde"
+    }
+  }
+}
